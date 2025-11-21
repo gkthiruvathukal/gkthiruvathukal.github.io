@@ -1,8 +1,7 @@
-build_project:
+build:
 	git describe --tags --abbrev=0 | tail -n 1 | xargs -I % uv version %
 	rm -rf dist/
-	uv build
-	uv pip install dist/*.tar.gz
+	rm -rf build/
 	sphinx-build -vvv --write-all --fresh-env src build
 
 create-dev:
@@ -12,4 +11,4 @@ create-dev:
 	uv build
 
 serve:
-	python -m http.server -d build 12300
+	sphinx-autobuild src build
