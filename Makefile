@@ -12,3 +12,6 @@ create-dev:
 
 serve:
 	sphinx-autobuild src build
+
+clean:
+	rm -rf build/

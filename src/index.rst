@@ -8,9 +8,9 @@
    and centralizing all of my old blog posts and writings to this new website.
    Thank you for your patience.
 
-This website contains professional artifacts and writings. It also
-attempts to centralize my online activity for observability and rapid
-navigation. This website contains my latest:
+This website contains professional artifacts and writings of George K. Thiruvathukal.
+It also attempts to centralize my online activity for observability and rapid navigation.
+This website contains my latest:
 
 .. grid:: 2
 
@@ -85,10 +85,10 @@ Book Summaries
    :glob:
    :hidden:
    :maxdepth: 2
-   :caption: Book Summaries
+   :caption: Pages
 
-   All Book Summaries <book_summaries/index>
-   book_summaries/*
+   Pages <pages/index>
+   pages/*
 
 .. toctree::
    :glob:
@@ -96,8 +96,8 @@ Book Summaries
    :maxdepth: 2
    :caption: Blog Posts
 
-   All Blog Posts <blog_posts/index>
-   blog_posts/*
+   All Blog Posts <posts/index>
+   posts/*
 
 .. toctree::
    :glob:
@@ -109,21 +109,10 @@ Book Summaries
    papers/*
 
 .. toctree::
-   :glob:
-   :hidden:
-   :maxdepth: 2
-   :caption: Portfolio
-
-   Overview <portfolio/index>
-   portfolio/*
-
-
-.. toctree::
    :hidden:
    :maxdepth: 1
    :caption: Socials
 
-   🐦 Bluesky <>
    📢 Facebook
    📘 GoodReads <>
    🐘 Mastodon
