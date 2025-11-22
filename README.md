@@ -66,3 +66,5 @@ what to look for is this code block:
 You can also deploy the project from the `main` branch at any time (so long as
 the `workflow_dispatch` event is included in the
 [`build.yml`](.github/workflows/build.yml) file) from the GitHub Actions page
+
+## George
