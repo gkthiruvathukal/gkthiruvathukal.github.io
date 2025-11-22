@@ -17,7 +17,7 @@ This website contains my latest:
    .. grid-item-card:: 🖊️ Blog Posts
       :text-align: center
 
-      .. button-link:: blog_posts/index.html
+      .. button-link:: posts/index.html
          :click-parent:
          :color: primary
          :expand:
