@@ -55,6 +55,7 @@ jobs:
       - name: Get Zotero Bibliography
         run: |
           ./tools/get-zotero-bibtex.sh
+          tree -L 2 .
 
       - name: Build the site
         run: |
