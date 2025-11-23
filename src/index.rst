@@ -4,13 +4,9 @@
 
 .. warning::
 
-   This website is currently **under construction**. I am currently migrating
-   and centralizing all of my old blog posts and writings to this new website.
+   This website is currently **under construction**. I am currently migrating away from a proprietary platform
+   and returning to Sphinx and GitHub Pages.
    Thank you for your patience.
-
-This website contains professional artifacts and writings of George K. Thiruvathukal.
-It also attempts to centralize my online activity for observability and rapid navigation.
-This website contains my latest:
 
 .. grid:: 2
 
@@ -38,12 +34,12 @@ This website contains my latest:
       :margin: 3 0 0 0
       :text-align: center
 
-      .. button-link:: _static/gkthiruvathukal.pdf
+      .. button-link:: https://github.com/gkthiruvathukal/cv/releases/latest
          :click-parent:
          :color: primary
          :expand:
 
-         Download
+         Download via GitHub
 
 
 *******************
@@ -108,14 +104,3 @@ Book Summaries
    All Papers <papers/index>
    papers/*
 
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-   :caption: Socials
-
-   📢 Facebook
-   📘 GoodReads <>
-   🐘 Mastodon
-   🪡 Threads
-   💬 X
-   🎥 Youtube

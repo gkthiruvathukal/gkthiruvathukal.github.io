@@ -53,7 +53,6 @@ autosectionlabel_maxdepth = 2
 
 # Sphinx BibTex settings
 bibtex_bibfiles = [
-   "refs.bib",
    "bibliography/gkt-magazine.bib",
    "bibliography/gkt-misc.bib",
    "bibliography/gkt-incollection.bib",
