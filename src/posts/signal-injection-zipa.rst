@@ -4,7 +4,6 @@
 :tags: Software Engineering, 12-28-2024
 :nocomments:
 
-
 A Signal Injection Attack Against Zero Involvement Pairing and Authentication for the Internet of Things
 =========================================================================================================
 
