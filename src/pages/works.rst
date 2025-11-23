@@ -1,64 +1,30 @@
-Works/Key Links
-================
+Research, Scholarship, Artifacts
+===========================================
 
 Latest CV in PDF at GitHub
 --------------------------
 
-`github.com/gkthiruvathukal/cv/releases/latest/download/gkthiruvathukal.pdf <https://github.com/gkthiruvathukal/cv/releases/latest/download/gkthiruvathukal.pdf>`_
+- `CV in PDF <https://github.com/gkthiruvathukal/cv/releases/latest/download/gkthiruvathukal.pdf>`_
+- `CV Source Code <https://github.com/gkthiruvathukal/cv>`_
 
-
-Loyola University Chicago Scholarship Page(s)
----------------------------------------------
-
-`scholars.luc.edu/en/persons/george-kuriakose-thiruvathukal <https://scholars.luc.edu/en/persons/george-kuriakose-thiruvathukal>`_
-
-
-Google Scholar
+Indexing
 --------------
 
-`scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en <https://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en>`_
+- `Google Scholar <https://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en>`_
 
 
-Repository
-----------
+Digital Libraries
+---------------------------------------------
 
-See `github.com/gkthiruvathukal/cv <https://github.com/gkthiruvathukal/cv>`_
+- `Loyola University Chicago Scholar Page <https://scholars.luc.edu/en/persons/george-kuriakose-thiruvathukal>`_
 
+Zotero Collections
+-----------------------
 
-Zotero
-------
-
-Books
-~~~~~
-
-`https://www.zotero.org/groups/5052589/gkt-books <https://www.zotero.org/groups/5052589/gkt-books>`_
-
-Conference Papers
-~~~~~~~~~~~~~~~~~
-
-`https://www.zotero.org/groups/5872543/gkt-inproceedings <https://www.zotero.org/groups/5872543/gkt-inproceedings>`_
-
-Journal Articles
-~~~~~~~~~~~~~~~~
-
-`https://www.zotero.org/groups/5872557/gkt-journal <https://www.zotero.org/groups/5872557/gkt-journal>`_
-
-Magazine Articles
-~~~~~~~~~~~~~~~~~
-
-`https://www.zotero.org/groups/5872554/gkt-magazine <https://www.zotero.org/groups/5872554/gkt-magazine>`_
-
-Miscellaneous
-~~~~~~~~~~~~~
-
-`https://www.zotero.org/groups/5872559/gkt-misc <https://www.zotero.org/groups/5872559/gkt-misc>`_
-
-Technical Reports
-~~~~~~~~~~~~~~~~~
-
-`https://www.zotero.org/groups/5872558/gkt-techreport <https://www.zotero.org/groups/5872558/gkt-techreport>`_
-
-Thesis
-~~~~~~
-
-`https://www.zotero.org/groups/5872560/gkt-theses <https://www.zotero.org/groups/5872560/gkt-theses>`_
+- `Books <https://www.zotero.org/groups/5052589/gkt-books>`_
+- `Conference Papers <https://www.zotero.org/groups/5872543/gkt-inproceedings>`_
+- `Journal Articles <https://www.zotero.org/groups/5872557/gkt-journal>`_
+- `Magazine Articles <https://www.zotero.org/groups/5872554/gkt-magazine>`_
+- `Technical Reports and Preprints <https://www.zotero.org/groups/5872558/gkt-techreport>`_
+- `Miscellaneous  <https://www.zotero.org/groups/5872559/gkt-misc>`_
+- `Theses <https://www.zotero.org/groups/5872560/gkt-theses>`_
