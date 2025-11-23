@@ -52,7 +52,18 @@ autosectionlabel_prefix_document = True
 autosectionlabel_maxdepth = 2
 
 # Sphinx BibTex settings
-bibtex_bibfiles = ["refs.bib"]
+bibtex_bibfiles = [
+   "refs.bib",
+   "bibliography/gkt-magazine.bib",
+   "bibliography/gkt-misc.bib",
+   "bibliography/gkt-incollection.bib",
+   "bibliography/gkt-journal.bib",
+   "bibliography/gkt-inproceedings.bib",
+   "bibliography/gkt-books.bib",
+   "bibliography/gkt-theses.bib",
+   "bibliography/gkt-techreport.bib"
+]
+
 bibtex_default_style = "unsrt"
 
 # -- Options for HTML output -------------------------------------------------

@@ -13,7 +13,7 @@ If you slow down YouTube videos directly in the browser, the audio quality often
 Compression artifacts and distortion make it hard to hear detail, which is exactly what you need for serious music practice and transcription.
 
 A better approach is to download the original audio stream from YouTube first, then work with it in a dedicated practice app.
-The open-source tool ``yt-dlp`` (a modern fork of ``youtube-dl``) is ideal for this: it can fetch the best available audio and hand it off to tools that support time-stretching, pitch-shifting, and looping without sacrificing clarity.
+The open-source tool ``yt-dlp`` [1]_ (a modern fork of ``youtube-dl``) is ideal for this: it can fetch the best available audio and hand it off to tools that support time-stretching, pitch-shifting, and looping without sacrificing clarity.
 
 Why Use ``yt-dlp``?
 -------------------
@@ -94,4 +94,5 @@ Putting It All Together
 5. Work with clean, reliable audio instead of in-browser playback.
 
 
+.. [1] `yt-dlp on GitHub <https://github.com/yt-dlp/yt-dlp>`_
 
