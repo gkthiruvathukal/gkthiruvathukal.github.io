@@ -1,5 +1,5 @@
 ###################################
- George K. Thiruvathukal's Website
+ George K. Thiruvathukal, PhD
 ###################################
 
 .. warning::
@@ -7,6 +7,12 @@
    This website is currently **under construction**. I am currently migrating away from a proprietary platform
    and returning to Sphinx and GitHub Pages.
    Thank you for your patience.
+
+
+Welcome to my web site.
+I'm George K. Thiruvathukal and am Professor and Chairperson for the Computer Science department at Loyola University Chicago.
+I also hold a visiting computer scientist appointment at Argonne National Laboratory as part of the Guest Faculty Research Participation program.
+For more information about me, see :doc:`pages/about`.
 
 .. grid:: 2
 
