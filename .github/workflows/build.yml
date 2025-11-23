@@ -52,6 +52,10 @@ jobs:
           restore-keys:
             uv-
 
+      - name: Get Zotero Bibliography
+        run: |
+          ./tools/get-zotero-bibtex.sh
+
       - name: Build the site
         run: |
           ./.venv/bin/sphinx-build --write-all src build
