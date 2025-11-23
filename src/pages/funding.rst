@@ -1,4 +1,4 @@
-Current Projects and Funding
+Funding and Gifts
 ============================
 
 .. csv-table::
@@ -39,8 +39,8 @@ Funding History
    "DARPA SBIR Phase I", "co-PI", "Cluster Based Repositories and Analysis", "$100,000", "2003"
 
 
-Corporate
-=========
+Corporate Gifts
+=================
 
 .. csv-table::
    :header: "Company", "Role", "Project Title", "Amount", "Period"
