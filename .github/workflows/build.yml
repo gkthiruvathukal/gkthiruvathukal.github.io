@@ -55,6 +55,7 @@ jobs:
       - name: Build the site
         run: |
           ./.venv/bin/sphinx-build --write-all src build
+          echo gkt.sh > build/html/CNAME
 
       - name: Cache save
         id: cache-save
