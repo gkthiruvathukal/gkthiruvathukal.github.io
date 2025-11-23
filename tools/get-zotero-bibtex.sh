@@ -3,7 +3,7 @@
 # https://www.zotero.org/groups/5882358/laufer-incollection
 
 
-BIB_DIR=bibliography
+BIB_DIR=src/bibliography
 ZOTERO_BIB_URLS=data/zotero-bibs.txt
 ZOTERO_API=https://api.zotero.org
 BIB_FORMAT=bibtex
