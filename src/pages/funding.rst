@@ -8,10 +8,10 @@ Current
    :header: "Agency / Grant", "Role", "Project Title", "Amount", "Period"
    :widths: 20, 10, 40, 10, 10
 
-   "NEH Scholarly Editions", "co-PI", "The Amy Lowell Letters Project", "$299,669", "2025-2028"
+   "NEH Scholarly Editions", "co-PI", "`The Amy Lowell Letters Project <https://www.neh.gov/news/neh-announces-3479-million-97-humanities-projects>`__", "$299,669", "2025-2028"
    "NSF CRSP-2537309", "PI", "`Collaborative Research: Planning: CROSS: Building a Community aROund Securing the Research Software Supply Chain <https://www.nsf.gov/awardsearch/show-award?AWD_ID=2537309>`__", "$49,996", "2025-2027"
-   "NSF CCF-2515526", "co-PI", "Conference: NAIRR Pilot Expansion: FA2: Capacity and Community for Research-Emerging Institutions with Small-to-Medium Computing Programs", "$298,882", "2025-2026"
-   "NSF CBET-2343595", "PI", "Collaborative Research: EAGER: CET: Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure", "$147,947", "2024-2026"
+   "NSF CCF-2515526", "co-PI", "`Conference: NAIRR Pilot Expansion: FA2: Capacity and Community for Research-Emerging Institutions with Small-to-Medium Computing Programs <https://www.nsf.gov/awardsearch/show-award?AWD_ID=2515526>`__", "$298,882", "2025-2026"
+   "NSF CBET-2343595", "PI", "`Collaborative Research: EAGER: CET: Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/show-award?AWD_ID=2343595>`__", "$147,947", "2024-2026"
    "Schreiber Venture Fund Innovation Grant (Loyola University Chicago)", "co-PI", "Culturally Responsive Intervention Incorporating AI to Promote Healthy Integration Among Afghan Evacuees in Illinois and Tennessee", "$47,763", "2024-2025"
 
 
