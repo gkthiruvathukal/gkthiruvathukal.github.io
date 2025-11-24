@@ -1,9 +1,9 @@
 Information for Prospective Students
 ===================================
 
-I receive many inquiries from students who are interested in joining my research group or seeking MS or PhD admission. 
+I receive many inquiries from students who are interested in joining my research group and/or seeking MS or PhD admission. 
 To help set expectations and reduce confusion, this page explains how admissions and funding work at Loyola University Chicago 
-and what I look for in prospective members of the Software and Systems Laboratory (SSL), which I direct.
+and what I look for in prospective members of the Software and Systems Laboratory (SSL), *which I direct*.
 
 Before Contacting Me
 --------------------
@@ -108,7 +108,7 @@ Recommended Undergraduate Preparation
 While formal admissions decisions are made centrally by the university, successful applicants to the 
 Software and Systems Laboratory (SSL) typically demonstrate strong preparation in several areas of 
 computer science that align with the lab’s research directions. The following undergraduate courses 
-(from the Loyola University Chicago Computer Science curriculum) are especially relevant for students 
+(from the `Loyola University Chicago Computer Science curriculum <https://catalog.luc.edu/undergraduate/arts-sciences/computer-science/computer-science-bs/>`__) are especially relevant for students 
 interested in systems, high-performance computing, software engineering, and programming languages.
 
 These courses are not strict requirements as we welcome students at all levels (freshman and beyond),
@@ -118,20 +118,17 @@ but students who have taken most of them—or equivalent courses elsewhere—are
 
 - COMP 264 — Introduction to Computer Systems  
   Provides essential foundations in low-level programming, memory models, and machine-level execution.
-
 - COMP 310 — Operating Systems  
   Covers concurrency, scheduling, resource management, and systems-level design principles.
 
 **High-Performance and Distributed Computing**
 
-- COMP 364 — High Performance Computing  
-  Directly aligned with SSL's emphasis on parallelism, scalability, and scientific computing.
-
 - COMP 339 — Distributed Systems  
   Important for understanding large-scale systems, coordination, distributed communication, and reliability.
-
 - COMP 343 — Computer Networks  
   Supports work involving data movement, performance tuning, and distributed protocol behavior.
+- COMP 364 — High Performance Computing  
+  Directly aligned with SSL's emphasis on parallelism, scalability, and scientific computing.
 
 **Software Engineering and Collaborative Development**
 
@@ -140,11 +137,11 @@ but students who have taken most of them—or equivalent courses elsewhere—are
 
 **Programming Languages and Algorithmic Foundations**
 
+- COMP 363 — Design and Analysis of Computer Algorithms  
+  Critical for algorithmic thinking, performance reasoning, and efficient problem-solving.
 - COMP 371 — Programming Languages  
   Useful for understanding language features, runtime systems, compilers, and program analysis.
 
-- COMP 363 — Design and Analysis of Computer Algorithms  
-  Critical for algorithmic thinking, performance reasoning, and efficient problem-solving.
 
 **Data Structures and Core CS Fundamentals**
 
@@ -154,12 +151,11 @@ but students who have taken most of them—or equivalent courses elsewhere—are
 **Artificial Intelligence and Machine Learning**
 
 - COMP 378 — Artificial Intelligence
-  Introduces core AI theory and programming concepts. :contentReference[oaicite:0]{index=0}
+  Introduces core AI theory and programming concepts.
 - COMP 379 — Machine Learning
-  Covers supervised/unsupervised learning, predictive modelling and data-driven algorithms. :contentReference[oaicite:1]{index=1}
+  Covers supervised/unsupervised learning, predictive modelling and data-driven algorithms.
 - COMP 387 — Deep Learning
-  Focuses on neural networks, modern architectures, and applications in vision and language. :contentReference[oaicite:2]{index=2}
-
+  Focuses on neural networks, modern architectures, and applications in vision and language.
 
 These courses provide the fundamental data structure knowledge necessary for systems programming, 
 distributed systems, and high-performance software design.
