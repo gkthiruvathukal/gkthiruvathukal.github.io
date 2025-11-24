@@ -102,6 +102,72 @@ As a **world-focused** laboratory, we *greatly* value diversity, equity, and inc
 to a respectful and collaborative research environment.
 
 
+Recommended Undergraduate Preparation
+-------------------------------------
+
+While formal admissions decisions are made centrally by the university, successful applicants to the 
+Software and Systems Laboratory (SSL) typically demonstrate strong preparation in several areas of 
+computer science that align with the lab’s research directions. The following undergraduate courses 
+(from the Loyola University Chicago Computer Science curriculum) are especially relevant for students 
+interested in systems, high-performance computing, software engineering, and programming languages.
+
+These courses are not strict requirements as we welcome students at all levels (freshman and beyond),
+but students who have taken most of them—or equivalent courses elsewhere—are usually better prepared for SSL’s *graduate* research activities.
+
+**Core Systems and Architecture**
+
+- COMP 264 — Introduction to Computer Systems  
+  Provides essential foundations in low-level programming, memory models, and machine-level execution.
+
+- COMP 310 — Operating Systems  
+  Covers concurrency, scheduling, resource management, and systems-level design principles.
+
+**High-Performance and Distributed Computing**
+
+- COMP 364 — High Performance Computing  
+  Directly aligned with SSL's emphasis on parallelism, scalability, and scientific computing.
+
+- COMP 339 — Distributed Systems  
+  Important for understanding large-scale systems, coordination, distributed communication, and reliability.
+
+- COMP 343 — Computer Networks  
+  Supports work involving data movement, performance tuning, and distributed protocol behavior.
+
+**Software Engineering and Collaborative Development**
+
+- COMP 330 — Software Engineering  
+  Reinforces structured development practices, testing, documentation, and collaborative open-source workflows.
+
+**Programming Languages and Algorithmic Foundations**
+
+- COMP 371 — Programming Languages  
+  Useful for understanding language features, runtime systems, compilers, and program analysis.
+
+- COMP 363 — Design and Analysis of Computer Algorithms  
+  Critical for algorithmic thinking, performance reasoning, and efficient problem-solving.
+
+**Data Structures and Core CS Fundamentals**
+
+- COMP 271 — Data Structures I  
+- COMP 272 — Data Structures II  
+
+**Artificial Intelligence and Machine Learning**
+
+- COMP 378 — Artificial Intelligence
+  Introduces core AI theory and programming concepts. :contentReference[oaicite:0]{index=0}
+- COMP 379 — Machine Learning
+  Covers supervised/unsupervised learning, predictive modelling and data-driven algorithms. :contentReference[oaicite:1]{index=1}
+- COMP 387 — Deep Learning
+  Focuses on neural networks, modern architectures, and applications in vision and language. :contentReference[oaicite:2]{index=2}
+
+
+These courses provide the fundamental data structure knowledge necessary for systems programming, 
+distributed systems, and high-performance software design.
+
+Students who have completed most of the courses listed above—or who can demonstrate equivalent 
+experience through industry work, open-source contributions, or independent projects—are typically 
+well prepared to engage with SSL's research projects and collaborate effectively within the group.
+
 Preparing a Strong Inquiry
 --------------------------
 
@@ -117,4 +183,5 @@ or prior research experience.
 
 This page serves as a starting point. For formal application procedures, please consult Loyola University Chicago’s 
 `official admissions resources <https://gpem.luc.edu>`__.
+
 
