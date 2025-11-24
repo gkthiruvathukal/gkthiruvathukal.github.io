@@ -27,7 +27,7 @@ Currently, I am a member of the IEEE Computer Advisory Board and an editor for t
 
 Beyond my roles as a department chair and professor, I returned to school in January 2023 to study jazz piano performance with
 `Lara Driscoll <https://laradriscoll.com/>`__; she is my first actual *piano* teacher!
-I have also been blessed to have other mentors, including `Jack Cassidy <https://www.jackcassidymusic.com/>`__, `Victor Garcia <https://victorgarciamusic.com/>`__, `Chris Madsen <https://www.luc.edu/dfpa/facultyandstaffdirectory/profiles/christophermadsendma.shtml>`__, `Michael Nearpass <https://www.oldtownschool.org/teachers/Michael-Nearpass/>`__.
+I have also been blessed to have other *brilliant* mentors, including `Jack Cassidy <https://www.jackcassidymusic.com/>`__, `Victor Garcia <https://victorgarciamusic.com/>`__, `Chris Madsen <https://www.luc.edu/dfpa/facultyandstaffdirectory/profiles/christophermadsendma.shtml>`__, and `Michael Nearpass <https://www.oldtownschool.org/teachers/Michael-Nearpass/>`__.
 I don't know if my chairperson life will permit me to finish a degree in music and jazz performance, but I love this group of musicians for bringing out the best in me and helping me to grow as an improviser and composer.
 Wish me luck.
 
