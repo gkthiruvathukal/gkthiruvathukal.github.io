@@ -1,0 +1,120 @@
+Information for Prospective Students
+===================================
+
+I receive many inquiries from students who are interested in joining my research group or seeking MS or PhD admission. 
+To help set expectations and reduce confusion, this page explains how admissions and funding work at Loyola University Chicago 
+and what I look for in prospective members of the Software and Systems Laboratory (SSL), which I direct.
+
+Before Contacting Me
+--------------------
+
+If you are interested in working with the Software and Systems Laboratory, please follow these guidelines before requesting a meeting.
+
+1. **Submit a complete application** to Loyola University Chicago at  
+   https://gpem.luc.edu/.  
+   I am unable to meet with students who have not yet applied through the university's official process.
+
+2. **Ensure that your Statement of Purpose clearly articulates your connection to SSL**.  
+   Your application should describe why your background and goals align with our research directions, 
+   what areas of SSL's work interest you, and how you see yourself contributing to ongoing projects.
+
+3. **After submitting your application, you may request an appointment via Calendly** (https://calendly.com/gkthiruvathukal).  
+   I will only consider meeting with applicants who already have an active application on file. 
+   This policy is not meant to be discouraging; it is necessary given the volume of inquiries and my responsibility 
+   to prioritize active applicants.
+
+4. **Part-time applicants must have a clear and documented funding plan**,  
+   including explicit employer support to dedicate substantial time to research.  
+   Without this, part-time study is not compatible with the expectations and demands of SSL projects.
+   There are many more established PhD programs that welcome part-time professional applicants.
+   We're not quite ready to be one of them.
+
+Admissions and Funding
+----------------------
+
+All undergraduate and graduate admissions at Loyola University Chicago are handled centrally by the university. 
+Faculty members, including department chairs, cannot personally admit students or guarantee financial support.
+
+For the PhD program, a departmental committee reviews all applications and makes admissions decisions. 
+We have a limited number of departmental teaching assistantships each year. 
+Research assistantships depend on whether individual faculty members have active grant funding.
+
+Students who hold external national or international fellowships are especially encouraged to apply. 
+Applicants with fellowships that provide at least three years of support are typically the most competitive.
+
+Admission to the MS or PhD program does **not** guarantee placement in my lab. 
+Lab membership depends on research alignment, preparation, and available funding. 
+Prospective students should be prepared to explain how their interests connect to ongoing work in the group. 
+**Generic or mass-mailed inquiries cannot--and will not--be considered.**
+
+Expectations for Prospective SSL Members
+----------------------------------------
+
+As director of the Software and Systems Laboratory, I oversee a research group focused on systems, 
+high-performance computing, software engineering, AI-assisted scientific computing, and interdisciplinary work 
+that spans computing and other fields. Because of this breadth and the applied nature of our research, 
+we look for students who have strong foundational preparation and can grow into collaborative, long-running projects.
+
+A solid understanding of fundamental computer science topics is essential. 
+This includes experience with advanced data structures, systems programming, operating systems, 
+and programming languages. Strong Linux/Unix proficiency is expected, as our work involves servers, 
+distributed systems, and HPC environments.
+
+We place a high value on excellent software engineering skills, including the use of open-source tools, 
+version control (especially GitHub), testing practices, documentation, and collaborative workflows. 
+Depending on the project, familiarity with mathematics (discrete mathematics, probability, and linear algebra) 
+may be helpful.
+
+Our group actively uses AI tools as part of research workflows, but we expect students to engage with these tools 
+critically and not as substitutes for understanding. Intellectual curiosity, a willingness to learn, and comfort with 
+complex, open-ended problems are crucial. Students should be able to give and receive constructive feedback. 
+
+Communication skills matter. SSL is not a code-only research group; students are expected to write papers, 
+prepare presentations, and contribute to discussions about research methods and evaluation.
+
+Conduct Expectations
+--------------------
+
+Professional conduct, reliability, and respect for others are essential. 
+We maintain a collaborative, inclusive environment and expect all members to uphold recognized community standards.
+
+Two examples that reflect the spirit of how we operate are:
+
+* Python Community Code of Conduct: https://www.python.org/psf/codeofconduct/
+* ACM Code of Ethics and Professional Conduct: https://www.acm.org/code-of-ethics
+
+These documents articulate widely accepted expectations for respectful behavior, professionalism, 
+equity and inclusion, and responsible conduct in computing. 
+We expect all SSL members to engage with colleagues in ways consistent with these principles.
+
+How We Work as a Team
+---------------------
+
+SSL is a highly collaborative research group. Students typically begin by joining an existing project, 
+learning the technical foundation, research questions, and workflow conventions of the group. 
+As they develop expertise, students may take on leadership roles and help shape new project directions.
+
+Purely solo projects are rare in our group; however, many solo projects often originate as side projects and become SSL projects.
+Students should expect to work closely with peers, faculty, 
+and sometimes collaborators at Argonne National Laboratory and other universities (e.g. Purdue University, Northern Illinois University, Northwestern University, and Arizona State University, among others).
+
+As a **world-focused** laboratory, we *greatly* value diversity, equity, and inclusion, and we welcome students from **all backgrounds** who are committed 
+to a respectful and collaborative research environment.
+
+
+Preparing a Strong Inquiry
+--------------------------
+
+Students who wish to express interest in working with the lab should begin by reading several of our recent publications 
+and briefly describing how their background aligns with specific projects.
+
+Thoughtful inquiries that demonstrate familiarity with our work are far more likely to be considered 
+than generic requests.
+
+Prospective students should also be prepared to learn independently, read papers on their own initiative, 
+and demonstrate evidence of technical depth through coursework, projects, open-source contributions, 
+or prior research experience.
+
+This page serves as a starting point. For formal application procedures, please consult Loyola University Chicago’s 
+`official admissions resources <https://gpem.luc.edu>`__.
+
