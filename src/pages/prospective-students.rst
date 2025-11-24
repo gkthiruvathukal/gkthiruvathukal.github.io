@@ -76,16 +76,16 @@ complex, open-ended problems are crucial. Students should be able to give and re
 Communication skills matter. SSL is not a code-only research group; students are expected to write papers,
 prepare presentations, and contribute to discussions about research methods and evaluation.
 
-Conduct Expectations or All SSL Members
+Conduct Expectations for All SSL Members
 ----------------------------------------
 
-Professional conduct, reliability, and respect for others are essential.
+Professional conduct, reliability, and respect for others are essential to success.
 We maintain a collaborative, inclusive environment and expect all members to uphold recognized community standards.
 
 Two examples that reflect the spirit of how we operate are:
 
-* Python Community Code of Conduct: https://www.python.org/psf/codeofconduct/
 * ACM Code of Ethics and Professional Conduct: https://www.acm.org/code-of-ethics
+* Python Community Code of Conduct: https://www.python.org/psf/codeofconduct/
 
 These documents articulate widely accepted expectations for respectful behavior, professionalism,
 equity and inclusion, and responsible conduct in computing.
