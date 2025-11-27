@@ -32,7 +32,7 @@ extensions = [
 ]
 
 templates_path = ["_templates"]
-exclude_patterns = []
+exclude_patterns = ["drafts/*", "archive/*"]
 
 # Ablog configuration options
 blog_authors = {
@@ -53,14 +53,14 @@ autosectionlabel_maxdepth = 2
 
 # Sphinx BibTex settings
 bibtex_bibfiles = [
-   "bibliography/gkt-magazine.bib",
-   "bibliography/gkt-misc.bib",
-   "bibliography/gkt-incollection.bib",
-   "bibliography/gkt-journal.bib",
-   "bibliography/gkt-inproceedings.bib",
-   "bibliography/gkt-books.bib",
-   "bibliography/gkt-theses.bib",
-   "bibliography/gkt-techreport.bib"
+    "bibliography/gkt-magazine.bib",
+    "bibliography/gkt-misc.bib",
+    "bibliography/gkt-incollection.bib",
+    "bibliography/gkt-journal.bib",
+    "bibliography/gkt-inproceedings.bib",
+    "bibliography/gkt-books.bib",
+    "bibliography/gkt-theses.bib",
+    "bibliography/gkt-techreport.bib",
 ]
 
 bibtex_default_style = "unsrt"
