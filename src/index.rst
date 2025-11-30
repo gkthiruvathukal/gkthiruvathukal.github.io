@@ -2,17 +2,13 @@
  George K. Thiruvathukal, PhD
 ###################################
 
-.. warning::
+**Welcome to the web site of George K. Thiruvathukal, PhD.**
 
-   This website is currently **under construction**. I am currently migrating away from a proprietary platform
-   and returning to Sphinx and GitHub Pages.
-   Thank you for your patience.
+I am `Professor and Chairperson <https://www.luc.edu/cs/aboutus/people/profiles/thiruvathukalgeorgek.shtml>`__ in the
+`Computer Science department <https://luc.edu/cs>`__ at `Loyola University Chicago <https://luc.edu>`__.
+I also hold a `Visiting Computer Scientist <https://www.alcf.anl.gov/about/people/george-k-thiruvathukal>`__ appointment at `Argonne National Laboratory <https://www.anl.gov>`__.
 
-
-Welcome to my web site.
-I'm George K. Thiruvathukal and am Professor and Chairperson for the Computer Science department at Loyola University Chicago.
-I also hold a visiting computer scientist appointment at Argonne National Laboratory as part of the Guest Faculty Research Participation program.
-For more information about me, see :doc:`pages/about`.
+For more information about me and my work/interests, see :doc:`pages/about`.
 
 .. grid:: 2
 
@@ -49,32 +45,11 @@ For more information about me, see :doc:`pages/about`.
 
 
 *******************
- Latest Blog Posts
+ News
 *******************
 
 .. postlist:: 5
    :category: Blog Post
-   :date: %A, %B %d, %Y
-   :format: {date}: {title}
-   :excerpts:
-   :expand: Read more ...
-
-*****************************
- Pre-print Paper Manuscripts
-*****************************
-
-..
-   TODO: Use ABlog to organize this
-
-***********************
- Latest Other Writings
-***********************
-
-Book Summaries
-===============
-
-.. postlist:: 5
-   :category: Book Summary
    :date: %A, %B %d, %Y
    :format: {date}: {title}
    :excerpts:
