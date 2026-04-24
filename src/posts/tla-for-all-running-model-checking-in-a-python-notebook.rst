@@ -38,4 +38,15 @@ Key benefits
 Citation
 --------
 
-Konstantin Läufer and George K. Thiruvathukal, *TLA for All: Model Checking in a Python Notebook*, http://dx.doi.org/10.6084/m9.figshare.28376276.v1
+Konstantin Läufer and George K. Thiruvathukal. *TLA for All: Model Checking in a Python Notebook*. figshare, 2025. http://dx.doi.org/10.6084/m9.figshare.28376276.v1
+
+.. code-block:: bibtex
+
+   @misc{laufer_tlaforall_2025,
+     author    = {Läufer, Konstantin and Thiruvathukal, George K.},
+     title     = {{TLA} for All: Model Checking in a {Python} Notebook},
+     year      = {2025},
+     publisher = {figshare},
+     doi       = {10.6084/m9.figshare.28376276.v1},
+     url       = {http://dx.doi.org/10.6084/m9.figshare.28376276.v1}
+   }

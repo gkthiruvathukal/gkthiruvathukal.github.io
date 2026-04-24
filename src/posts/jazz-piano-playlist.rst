@@ -30,14 +30,22 @@ Highlights
 
 While the playlist evolves, several timeless artists consistently anchor it:
 
-* **Keith Jarrett** – introspective, lyrical phrasing with unmatched dynamic control.  
-* **Herbie Hancock** – harmonic versatility spanning multiple jazz eras.  
-* **Hank Mobley** – a tenor saxophonist whose recordings showcase inventive comping from top-tier pianists.  
+* **Keith Jarrett** – introspective, lyrical phrasing with unmatched dynamic control.
+* **Herbie Hancock** – harmonic versatility spanning multiple jazz eras.
+* **Hank Mobley** – a tenor saxophonist whose recordings showcase inventive comping from top-tier pianists.
 
 These tracks offer a rich foundation for developing vocabulary, time feel, and touch.
 
 Citation
 --------
 
-George K. Thiruvathukal, *Jazz Piano Playlist*, 2024 curated list and listening recommendations.
+George K. Thiruvathukal. *Jazz Piano Playlist for Inspiration and Practice*. Personal blog post, 2024. https://gkt.sh/posts/jazz-piano-playlist.html
 
+.. code-block:: bibtex
+
+   @misc{thiruvathukal_jazzpiano_2024,
+     author = {Thiruvathukal, George K.},
+     title  = {Jazz Piano Playlist for Inspiration and Practice},
+     year   = {2024},
+     url    = {https://gkt.sh/posts/jazz-piano-playlist.html}
+   }

@@ -96,3 +96,16 @@ Putting It All Together
 
 .. [1] `yt-dlp on GitHub <https://github.com/yt-dlp/yt-dlp>`_
 
+Citation
+--------
+
+George K. Thiruvathukal. *Extracting High-Quality Audio from YouTube for Music Practice*. Personal blog post, 2025. https://gkt.sh/posts/yt-dlp-jazz.html
+
+.. code-block:: bibtex
+
+   @misc{thiruvathukal_ytdlp_2025,
+     author = {Thiruvathukal, George K.},
+     title  = {Extracting High-Quality Audio from {YouTube} for Music Practice},
+     year   = {2025},
+     url    = {https://gkt.sh/posts/yt-dlp-jazz.html}
+   }

@@ -72,21 +72,19 @@ This work presents the first demonstrated signal-injection attack on ZIPA-based 
 We show that relying purely on ambient signals for secure pairing is not sufficient in adversarial environments, even at moderate sound levels such as 95 dBA.
 Designers of large-scale IoT auto-provisioning systems should adopt more robust threat models, incorporate active defenses, and treat ZIPA schemes with caution when security is a primary concern.
 
-Citaiton
---------------
+Citation
+--------
 
-Isaac Ahlgren, Rushikeshh Shirsat, Omar Achkar, George K. Thiruvathukal, Kyu In Lee and Neil Klingensmith, *Not-so-Secret Authentication: The SyncBleed Attacks and Defenses for Zero-Involvement Authentication Systems*, 2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece, 2025, pp. 592-599, https://doi.org/10.1109/CSR64739.2025.11130070.
+Isaac Ahlgren, Rushikesh Shirsat, Omar Achkar, George K. Thiruvathukal, Kyu In Lee, and Neil Klingensmith. *Not-so-Secret Authentication: The SyncBleed Attacks and Defenses for Zero-Involvement Authentication Systems*. 2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece, 2025, pp. 592–599. https://doi.org/10.1109/CSR64739.2025.11130070
 
 .. code-block:: bibtex
 
-   @INPROCEEDINGS{11130070,
-     author={Ahlgren, Isaac and Shirsat, Rushikesh and Achkar, Omar and Thiruvathukal, George K and Lee, Kyu In and Klingensmith, Neil},
-     booktitle={2025 IEEE International Conference on Cyber Security and Resilience (CSR)}, 
-     title={Not-so-Secret Authentication: The SyncBleed Attacks and Defenses for Zero-Involvement Authentication Systems}, 
-     year={2025},
-     volume={},
-     number={},
-     pages={592-599},
-     keywords={Resistance;Wireless communication;Privacy;Authentication;Vectors;Synchronization;Security;Standards;Resilience;Principal component analysis},
-     doi={10.1109/CSR64739.2025.11130070}}
-   
+   @inproceedings{ahlgren_syncbleed_2025,
+     author    = {Ahlgren, Isaac and Shirsat, Rushikesh and Achkar, Omar and Thiruvathukal, George K. and Lee, Kyu In and Klingensmith, Neil},
+     booktitle = {2025 IEEE International Conference on Cyber Security and Resilience (CSR)},
+     title     = {Not-so-Secret Authentication: The {SyncBleed} Attacks and Defenses for Zero-Involvement Authentication Systems},
+     year      = {2025},
+     pages     = {592--599},
+     doi       = {10.1109/CSR64739.2025.11130070},
+     url       = {https://doi.org/10.1109/CSR64739.2025.11130070}
+   }
