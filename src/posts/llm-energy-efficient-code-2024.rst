@@ -7,14 +7,48 @@
 LLMs for Energy-Efficient Code: Emerging Results and Future Directions (2024)
 ==============================================================================
 
-This post covers emerging results from a collaboration led by **Huiyun Peng** and **Akhil Gupte** (Purdue University), with **Nicholas J. Eliopoulos** and other collaborators including myself as external supervisor.
-The work appears as an arXiv preprint (arXiv:2410.09241) and represents an active research direction in our group.
+This paper was led by **Huiyun Peng** and **Akhil Gupte** (Purdue University), working with **James C. Davis** and **Yung-Hsiang Lu**.
+I am one of the key leaders of this research project.
+The work is available as an arXiv preprint (arXiv:2410.09241).
 
-Large language models are increasingly used to generate and optimize code, but their impact on software energy efficiency is poorly understood.
-This paper presents initial empirical results showing that LLM-generated code is not automatically energy-efficient — and in some cases introduces significant overhead — but that targeted prompting strategies and fine-tuning can close the gap.
+Abstract / Summary
+------------------
 
-The broader ambition is to make energy efficiency a first-class concern in AI-assisted software development, treating power consumption alongside correctness and performance.
-This work sits at the intersection of green computing and software engineering, and we see it as a foundation for future tooling and benchmarks.
+Large language models are widely used to generate code, but the energy efficiency of that code is rarely considered.
+This paper presents early empirical results on whether LLM-generated code is energy-efficient, what factors influence it, and what prompting or fine-tuning strategies can improve it.
+The findings are preliminary but point toward a clear research agenda at the intersection of green computing and AI-assisted software development.
+
+Background
+----------
+
+Software energy consumption is a growing concern.
+Data centers consume significant electricity, and the code running on them matters.
+At the same time, LLMs like GitHub Copilot and ChatGPT are changing how code gets written — developers increasingly accept generated code with minimal modification.
+If generated code is systematically less energy-efficient than hand-written code, that is a problem worth understanding and fixing.
+Prior work has studied energy efficiency in traditional software engineering contexts, but the LLM code generation setting is new.
+
+Key Contributions
+-----------------
+
+* An empirical measurement study comparing the energy consumption of LLM-generated code against human-written equivalents across a benchmark suite.
+* Evidence that LLM-generated code is not automatically energy-efficient and in some cases introduces measurable overhead.
+* An evaluation of prompting strategies (e.g., explicitly requesting efficient implementations) and their effect on generated code's energy profile.
+* A research roadmap for making energy efficiency a first-class metric in LLM-assisted programming tools.
+
+Findings
+--------
+
+LLM-generated code varied considerably in energy efficiency depending on the model, prompt, and task.
+Naive code generation — asking an LLM to implement a function without energy-related guidance — often produced correct but inefficient solutions.
+Targeted prompting strategies that explicitly request efficiency improved results in some cases, but inconsistently.
+The findings suggest that current LLMs do not have a strong internal model of energy efficiency and that this will need to be explicitly trained or elicited.
+
+Key Take-Aways
+--------------
+
+Energy efficiency is a blind spot in current LLM-based coding tools.
+As these tools become more prevalent, the code they generate will run at scale, and efficiency differences that seem small per-request can aggregate into significant energy costs.
+This work is an early step toward benchmarks and training signals that incorporate energy as an objective alongside correctness and performance.
 
 Citation
 ~~~~~~~~

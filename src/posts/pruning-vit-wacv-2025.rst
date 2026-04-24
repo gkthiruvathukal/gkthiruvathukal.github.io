@@ -7,15 +7,47 @@
 Pruning One More Token Is Enough: Efficient Vision Transformers on the Edge (WACV 2025)
 ========================================================================================
 
-This post highlights work led by **Nicholas J. Eliopoulos** (Purdue University), co-supervised by **James C. Davis**, **Guoqing Liu**, **Yung-Hsiang Lu**, and myself.
-The paper appeared at **WACV 2025** (IEEE/CVF Winter Conference on Applications of Computer Vision).
+This paper was led by **Nicholas J. Eliopoulos** (Purdue University), working with **James C. Davis**, **Guoqing Liu**, and **Yung-Hsiang Lu**.
+I am one of the key leaders of this research project.
+The work appeared at **WACV 2025** (IEEE/CVF Winter Conference on Applications of Computer Vision).
 
-Vision Transformers (ViTs) are powerful but expensive — too expensive for most edge devices.
-Token pruning removes less-informative patches from the input sequence to reduce computation, but prior work treats the latency savings as roughly linear in the number of tokens removed.
-This paper reveals a non-linearity: hardware-level batching means that pruning a small number of additional tokens can yield disproportionate latency improvements at no additional accuracy cost.
+Abstract / Summary
+------------------
 
-By exploiting this latency-workload non-linearity in the pruning decision, our approach achieves competitive accuracy-latency tradeoffs on standard benchmarks without additional training.
-The result matters for anyone deploying ViTs on devices where memory bandwidth and compute are tightly constrained.
+Vision Transformers (ViTs) achieve strong accuracy on image tasks but are computationally expensive for edge deployment.
+Token pruning — dropping less-informative image patches from the input sequence — is a standard way to reduce that cost.
+This paper shows that the relationship between tokens pruned and latency saved is not linear: due to hardware-level batching effects, pruning a few extra tokens at the right threshold can yield a disproportionate latency reduction at no additional accuracy cost.
+
+Background
+----------
+
+Deploying vision models on edge devices — cameras, mobile phones, embedded systems — requires balancing accuracy against compute and memory constraints.
+ViTs are attractive for their strong performance, but their self-attention mechanism scales quadratically with input length.
+Token pruning addresses this by removing uninformative patches early in the network, reducing the sequence length that attention operates on.
+Prior work on token pruning typically models latency savings as proportional to the number of tokens removed.
+This assumption turns out to be incomplete.
+
+Key Contributions
+-----------------
+
+* Identification of a latency-workload non-linearity in ViT inference on edge hardware caused by batch processing thresholds.
+* A pruning strategy that exploits this non-linearity to achieve better latency reduction than uniformly distributed pruning at the same token budget.
+* Empirical evaluation on standard vision benchmarks showing competitive accuracy-latency tradeoffs without retraining.
+* Analysis of how this effect varies across hardware platforms and batch sizes.
+
+Findings
+--------
+
+On the hardware platforms tested, token count interacts with batch processing in a step-wise manner.
+Pruning to just below a batch boundary yields only modest latency savings; pruning one more token — crossing the threshold — triggers a larger reduction.
+By accounting for this in the pruning decision, the approach achieves better real-world speed with the same or better accuracy compared to baselines that ignore hardware structure.
+
+Key Take-Aways
+--------------
+
+Efficient inference on real hardware requires thinking about the hardware, not just the model.
+A pruning strategy optimized in isolation from deployment constraints will leave performance on the table.
+This work is a practical example of how hardware-aware design can yield meaningful gains without any change to the underlying model architecture or training procedure.
 
 Citation
 ~~~~~~~~

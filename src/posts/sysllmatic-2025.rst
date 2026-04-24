@@ -7,14 +7,47 @@
 SysLLMatic: Large Language Models as Software System Optimizers (2025)
 =======================================================================
 
-This post highlights **SysLLMatic**, a project led by **Huiyun Peng** (Purdue University), with contributions from **Akhil Gupte**, **Ryan Hasler**, **Nicholas J. Eliopoulos**, and other collaborators, including myself as external supervisor.
-The work is available as arXiv:2506.01249.
+This paper was led by **Huiyun Peng** and **Akhil Gupte** (Purdue University), working with **James C. Davis**, **Yung-Hsiang Lu**, and others including **Ryan Hasler** and **Nicholas J. Eliopoulos**.
+I am one of the key leaders of this research project.
+The work is available as an arXiv preprint (arXiv:2506.01249).
 
-Software systems optimization — tuning parameters like thread counts, buffer sizes, and scheduler settings — is typically done by experienced engineers through trial and error.
-SysLLMatic investigates whether large language models can take on this role: given a system description and performance objective, can an LLM reason about configuration options and propose effective settings?
+Abstract / Summary
+------------------
 
-The initial results are encouraging: LLMs with access to system documentation can outperform random search on several standard optimization benchmarks, and their reasoning traces expose which documentation gaps most hamper performance.
-This points toward a future where LLMs serve as interactive optimization assistants for systems software, not just code generation tools.
+Software systems performance depends heavily on configuration: thread pool sizes, buffer limits, cache policies, scheduler parameters.
+Getting these right typically requires deep expertise and iterative experimentation.
+SysLLMatic investigates whether large language models can assist with this task — given a system description and a performance objective, can an LLM reason about configuration options and suggest good settings?
+The paper presents a framework and early results showing that LLMs can meaningfully contribute to systems optimization when given appropriate context.
+
+Background
+----------
+
+Systems performance tuning is an expert activity.
+The search space of configurations is large, the interactions between parameters are nonlinear, and the right settings depend on workload characteristics that change over time.
+Existing automated approaches — Bayesian optimization, evolutionary search — work but require many evaluation runs and do not generalize across systems.
+LLMs have shown surprising capability at reasoning about code and systems behavior, which raises the question of whether they can accelerate or replace parts of the tuning loop.
+
+Key Contributions
+-----------------
+
+* **SysLLMatic**, a framework for using LLMs to propose and iterate on system configuration settings given a performance objective.
+* An evaluation across multiple software systems and workloads, comparing LLM-guided tuning against baselines including random search and Bayesian optimization.
+* Analysis of LLM reasoning traces to identify which types of system knowledge help and where documentation gaps limit performance.
+* A characterization of where LLMs add value in the tuning loop and where they do not.
+
+Findings
+--------
+
+LLMs with access to system documentation can outperform random search on several benchmarks and match Bayesian optimization in some settings, with far fewer evaluation runs.
+When LLMs fail, it is often because system documentation is incomplete or misleading about the effect of a parameter.
+The reasoning traces produced by LLMs are useful in themselves: they surface which configuration options the model considers important and which documentation gaps prevent confident recommendations.
+
+Key Take-Aways
+--------------
+
+LLMs can serve as practical assistants for software systems optimization, particularly in the early exploration phase where an expert would otherwise need to read documentation and form hypotheses manually.
+They are not a replacement for systematic search, but they reduce the number of evaluations needed to find a good starting configuration.
+This work also highlights that better systems documentation — not just more capable models — is a key lever for improving LLM-assisted tuning.
 
 Citation
 ~~~~~~~~

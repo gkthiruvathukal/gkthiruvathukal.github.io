@@ -7,15 +7,45 @@
 What Do We Know About Hugging Face? A Systematic Literature Review (ESEM 2024)
 ===============================================================================
 
-This post covers a systematic literature review led by **Jason Jones** and **Wenxin Jiang** (Purdue University, advised by **James C. Davis**).
-I am a co-author on this work and contributed to the analysis and framing alongside the student-led team.
-The paper appeared at **ESEM 2024** (ACM/IEEE International Symposium on Empirical Software Engineering and Measurement).
+This paper was led by **Jason Jones** and **Wenxin Jiang** (Purdue University, working with **James C. Davis**).
+I am one of the key leaders of this research project and contributed to the analysis and synthesis.
+The work appeared at **ESEM 2024** (ACM/IEEE International Symposium on Empirical Software Engineering and Measurement).
 
-As Hugging Face has grown into the dominant platform for sharing pre-trained models, a large and scattered body of literature has emerged around it — but without a coherent synthesis.
-This paper systematically reviewed that literature, extracted empirical claims, and validated them quantitatively.
+Abstract / Summary
+------------------
 
-The review surfaces key patterns: model cards are widely studied but frequently incomplete, reproducibility remains a persistent challenge, and the platform's governance mechanisms have not kept pace with its growth.
-The paper provides both a structured map of current knowledge and a roadmap for where empirical SE research on AI platforms should go next.
+Hugging Face has become the central platform for sharing and discovering pre-trained models, yet the research literature about it is scattered and uneven.
+This paper conducts a systematic literature review of published work on Hugging Face, extracts qualitative claims from that literature, and then validates those claims quantitatively against data from the platform itself.
+The goal is to give the research community a reliable, evidence-based picture of what we actually know.
+
+Background
+----------
+
+As Hugging Face grew rapidly, so did papers studying it — but without coordination.
+Papers made contradictory claims, studied different subsets of the platform, or drew conclusions from outdated snapshots.
+A systematic review was needed to consolidate findings, identify where claims were supported by data and where they were speculation, and map the gaps where research is still thin.
+
+Key Contributions
+-----------------
+
+* A systematic literature review covering empirical work on Hugging Face across software engineering, machine learning, and security venues.
+* Extraction and categorization of qualitative claims from the literature.
+* Quantitative validation of those claims against current platform data, distinguishing what holds up from what does not.
+* A structured map of findings and an agenda for where future empirical work is most needed.
+
+Findings
+--------
+
+Several commonly repeated claims in the literature do not hold up when tested against platform data at scale.
+Model cards are widely described as a solution to documentation problems, but in practice the majority remain incomplete or are auto-generated with minimal content.
+Reproducibility is cited as a concern in many papers, but few studies operationalize it concretely.
+Governance and licensing receive little empirical attention despite being practically significant.
+
+Key Take-Aways
+--------------
+
+The HF ecosystem is larger and more complex than most individual studies capture, and the research community has not yet converged on shared definitions or measurement approaches.
+This review gives researchers a baseline to build from and highlights the areas — governance, licensing, reproducibility, security — where systematic empirical work is still lacking.
 
 Citation
 ~~~~~~~~
