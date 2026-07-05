@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: May 14, 2023
-:category: Blog Post
-:tags: Software Engineering, Artificial Intelligence, 05-14-2023
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Pre-Trained Models, Hugging Face, Empirical Study, ICSE
 :nocomments:
 
 Pre-Trained Model Reuse in Hugging Face: An Empirical Study (ICSE 2023)

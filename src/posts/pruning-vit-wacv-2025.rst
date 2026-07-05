@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: February 28, 2025
-:category: Blog Post
-:tags: Artificial Intelligence, 02-28-2025
+:category: Blog Post, Artificial Intelligence
+:tags: Vision Transformers, Model Pruning, Edge Computing, Computer Vision, WACV
 :nocomments:
 
 Pruning One More Token Is Enough: Efficient Vision Transformers on the Edge (WACV 2025)

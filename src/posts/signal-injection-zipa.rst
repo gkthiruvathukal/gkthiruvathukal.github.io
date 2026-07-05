@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: December 28, 2024
-:category: Blog Post
-:tags: Software Engineering, 12-28-2024
+:category: Blog Post, Security, Software Engineering
+:tags: IoT, Signal Injection, Authentication, DESTION
 :nocomments:
 
 A Signal Injection Attack Against Zero Involvement Pairing and Authentication for the Internet of Things
@@ -12,7 +13,7 @@ Overview
 
 Zero Involvement Pairing and Authentication (ZIPA) is a technique for automatically provisioning large networks of Internet-of-Things (IoT) devices with no user involvement.
 Prior ZIPA work generally assumes that the environment used for pairing is sufficiently isolated from external, adversarial signals.
-In our DESTION 2024 paper :cite:p:`ahlgren_not-so-secret_2025`, we present the first *signal-injection attack* capable of influencing ZIPA-based key generation, demonstrating that these assumptions can fail in realistic settings.
+In our DESTION 2024 paper (see Citation below), we present the first *signal-injection attack* capable of influencing ZIPA-based key generation, demonstrating that these assumptions can fail in realistic settings.
 
 Abstract Summary
 ----------------
@@ -75,16 +76,16 @@ Designers of large-scale IoT auto-provisioning systems should adopt more robust 
 Citation
 --------
 
-Isaac Ahlgren, Rushikesh Shirsat, Omar Achkar, George K. Thiruvathukal, Kyu In Lee, and Neil Klingensmith. *Not-so-Secret Authentication: The SyncBleed Attacks and Defenses for Zero-Involvement Authentication Systems*. 2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece, 2025, pp. 592–599. https://doi.org/10.1109/CSR64739.2025.11130070
+Isaac Ahlgren, Jack West, Kyuin Lee, George K. Thiruvathukal, and Neil Klingensmith. *A Signal Injection Attack Against Zero Involvement Pairing and Authentication for the Internet of Things*. 2024 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2024, pp. 9–15. https://doi.org/10.1109/DESTION62938.2024.00008
 
 .. code-block:: bibtex
 
-   @inproceedings{ahlgren_syncbleed_2025,
-     author    = {Ahlgren, Isaac and Shirsat, Rushikesh and Achkar, Omar and Thiruvathukal, George K. and Lee, Kyu In and Klingensmith, Neil},
-     booktitle = {2025 IEEE International Conference on Cyber Security and Resilience (CSR)},
-     title     = {Not-so-Secret Authentication: The {SyncBleed} Attacks and Defenses for Zero-Involvement Authentication Systems},
-     year      = {2025},
-     pages     = {592--599},
-     doi       = {10.1109/CSR64739.2025.11130070},
-     url       = {https://doi.org/10.1109/CSR64739.2025.11130070}
+   @inproceedings{ahlgren_signal_2024,
+     author    = {Ahlgren, Isaac and West, Jack and Lee, Kyuin and Thiruvathukal, George K. and Klingensmith, Neil},
+     booktitle = {2024 IEEE Workshop on Design Automation for CPS and IoT (DESTION)},
+     title     = {A Signal Injection Attack Against Zero Involvement Pairing and Authentication for the Internet of Things},
+     year      = {2024},
+     pages     = {9--15},
+     doi       = {10.1109/DESTION62938.2024.00008},
+     url       = {https://doi.org/10.1109/DESTION62938.2024.00008}
    }

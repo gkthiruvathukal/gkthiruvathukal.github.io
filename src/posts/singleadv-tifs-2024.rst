@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: March 1, 2024
-:category: Blog Post
-:tags: Artificial Intelligence, 03-01-2024
+:category: Blog Post, Artificial Intelligence, Security
+:tags: Adversarial Attacks, Interpretability, Explainable AI, TIFS
 :nocomments:
 
 SingleAdv: Targeted Adversarial Attacks on Interpretable Deep Learning (IEEE TIFS 2024)

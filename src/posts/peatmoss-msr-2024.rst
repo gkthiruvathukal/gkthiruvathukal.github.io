@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: April 15, 2024
-:category: Blog Post
-:tags: Software Engineering, Artificial Intelligence, 04-15-2024
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Pre-Trained Models, Hugging Face, Mining Software Repositories, Software Supply Chain Security, MSR
 :nocomments:
 
 PeaTMOSS: Mining Pre-Trained Models in Open-Source Software (MSR 2024)

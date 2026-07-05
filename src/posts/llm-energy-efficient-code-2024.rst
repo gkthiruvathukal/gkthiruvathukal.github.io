@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: October 12, 2024
-:category: Blog Post
-:tags: Software Engineering, Artificial Intelligence, 10-12-2024
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Large Language Models, Energy Efficiency, Green Computing, arXiv
 :nocomments:
 
 LLMs for Energy-Efficient Code: Emerging Results and Future Directions (2024)

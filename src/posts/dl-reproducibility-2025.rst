@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: May 6, 2025
-:category: Blog Post
-:tags: Software Engineering, Artificial Intelligence, 05-06-2025
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Reproducibility, Empirical Study, arXiv
 :nocomments:
 
 Improving Deep Learning Reproducibility: A Case Study Investigation (2025)

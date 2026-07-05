@@ -35,8 +35,8 @@ Create a `.rst` file in `src/posts/` with this frontmatter at the top:
 ```rst
 :blogpost: true
 :date: Month DD, YYYY
-:category: Blog Post
-:tags: Tag One, Tag Two, MM-DD-YYYY
+:category: Blog Post, Topic Category One, Topic Category Two
+:tags: Tag One, Tag Two, Venue Acronym
 :nocomments:
 
 :bdg-primary:`Blog Post` :bdg-primary-line:`Tag One`
@@ -45,7 +45,8 @@ Post Title
 ==========
 ```
 
-- The date-formatted tag (e.g., `04-23-2026`) is a convention for chronological tag archives.
+- `:category:` is a list: keep `Blog Post` (used by site-wide postlist filters) plus one or more topic categories (e.g., `Artificial Intelligence`, `Software Engineering`, `Music`) — these drive ABlog's auto-generated category archive pages.
+- `:tags:` holds finer-grained, content-specific tags plus the publication venue acronym (e.g., `EMSE`, `ICSE`, `MSR`) when the post covers a paper. Chronological browsing comes from ABlog's built-in year archives (based on `:date:`), not from a tag — don't add a date-formatted tag.
 - `:nocomments:` suppresses the comment section.
 - Badge directives (`:bdg-primary:`) come from `sphinx_design`.
 - Footnote-style citations (`.. [1]`) are used for inline references; BibTeX citations use `sphinxcontrib.bibtex` syntax for academic references.

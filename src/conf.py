@@ -72,6 +72,22 @@ html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 
+# Add ABlog's browsing widgets (tag cloud, categories, archives, recent
+# posts) to the sidebar on blog pages only, alongside the theme's default
+# nav/search templates.
+html_sidebars = {
+    "posts/**": [
+        "navbar-logo.html",
+        "icon-links.html",
+        "search-button-field.html",
+        "sbt-sidebar-nav.html",
+        "ablog/recentposts.html",
+        "ablog/tagcloud.html",
+        "ablog/categories.html",
+        "ablog/archives.html",
+    ]
+}
+
 # Sphinx Book Theme Settings
 html_theme_options = {
     "repository_url": "https://github.com/gkthiruvathukal/gkthiruvathukal.github.io",

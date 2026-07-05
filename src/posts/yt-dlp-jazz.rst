@@ -1,10 +1,11 @@
+:orphan:
 :blogpost: true
 :date: November 22, 2025
-:category: Blog Post
-:tags: Artificial Intelligence, Music, 11-22-2025
+:category: Blog Post, Music
+:tags: Audio Tools, yt-dlp
 :nocomments:
 
-:bdg-primary:`Blog Post` :bdg-primary-line:`Artificial Intelligence`
+:bdg-primary:`Blog Post` :bdg-primary-line:`Music`
 
 Extracting High-Quality Audio from YouTube for Music Practice
 =============================================================

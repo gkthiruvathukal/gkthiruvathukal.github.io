@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: June 2, 2025
-:category: Blog Post
-:tags: Software Engineering, Artificial Intelligence, 06-02-2025
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Large Language Models, Performance Optimization, Systems Configuration, arXiv
 :nocomments:
 
 SysLLMatic: Large Language Models as Software System Optimizers (2025)

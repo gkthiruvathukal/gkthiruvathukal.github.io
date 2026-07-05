@@ -60,10 +60,8 @@ For more information about me and my work/interests, see :doc:`pages/about`.
    pages/*
 
 .. toctree::
-   :glob:
    :hidden:
    :maxdepth: 2
    :caption: Blog Posts
 
    All Blog Posts <posts/index>
-   posts/*

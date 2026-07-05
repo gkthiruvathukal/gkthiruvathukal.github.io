@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: January 30, 2024
-:category: Blog Post
-:tags: Software Engineering, Artificial Intelligence, 01-30-2024
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Model Reengineering, Reproducibility, Computer Vision, Empirical Study, EMSE
 :nocomments:
 
 Deep Learning Model Reengineering: Challenges and Practices (EMSE 2024)

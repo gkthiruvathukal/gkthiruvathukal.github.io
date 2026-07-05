@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: February 5, 2025
-:category: Blog Post
-:tags: Software Engineering, 02-05-2025
+:category: Blog Post, Software Engineering
+:tags: Formal Methods, Model Checking, TLA+, Figshare
 :nocomments:
 
 TLA+ for All: Running Model Checking in a Python Notebook

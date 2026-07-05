@@ -2,34 +2,60 @@
  All Blog Posts
 ################
 
+Browse by topic below, or use the tag cloud, categories, and archives in
+the sidebar to browse by venue, topic, or date directly.
+
 **************************
-`Artificial Intelligence`
+Artificial Intelligence
 **************************
 
-.. grid:: 2
-
-   .. grid-item-card:: 01-28-2025
-
-      .. postlist:: 1
-         :category: Blog Post
-         :tags: 01-28-2025
-         :date: %A, %B %d, %Y
-         :format: {title}
-         :excerpts:
-         :expand: Read more ...
+.. postlist::
+   :category: Blog Post, Artificial Intelligence
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...
 
 ***********************
-`Software Engineering`
+Software Engineering
 ***********************
 
-.. grid:: 2
+.. postlist::
+   :category: Blog Post, Software Engineering
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...
 
-   .. grid-item-card:: 12-28-2024
+****************************
+High-Performance Computing
+****************************
 
-      .. postlist:: 1
-         :category: Blog Post
-         :tags: 12-28-2024
-         :date: %A, %B %d, %Y
-         :format: {title}
-         :excerpts:
-         :expand: Read more ...
+.. postlist::
+   :category: Blog Post, High-Performance Computing
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...
+
+*********
+Security
+*********
+
+.. postlist::
+   :category: Blog Post, Security
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...
+
+*******
+Music
+*******
+
+.. postlist::
+   :category: Blog Post, Music
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...

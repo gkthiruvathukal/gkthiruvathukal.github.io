@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: October 24, 2024
-:category: Blog Post
-:tags: Software Engineering, Artificial Intelligence, 10-24-2024
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Hugging Face, Pre-Trained Models, Systematic Literature Review, ESEM
 :nocomments:
 
 What Do We Know About Hugging Face? A Systematic Literature Review (ESEM 2024)

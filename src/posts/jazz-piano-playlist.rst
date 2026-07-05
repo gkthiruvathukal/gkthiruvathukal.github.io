@@ -1,13 +1,14 @@
+:orphan:
 :blogpost: true
 :date: December 12, 2024
-:category: Blog Post
-:tags: Software Engineering, 10-12-2024
+:category: Blog Post, Music
+:tags: Jazz, Piano
 :nocomments:
 
 A Jazz Piano Playlist for Inspiration and Practice
 ==================================================
 
-:bdg-primary:`Blog Post` :bdg-primary-line:`Software Engineering`
+:bdg-primary:`Blog Post` :bdg-primary-line:`Music`
 
 Jazz pianists draw inspiration from a long lineage of extraordinary players whose recordings continue to shape how we learn, practice, and perform.
 This playlist brings together influential tracks from several eras—bebop, modal jazz, post-bop, and more—curated to support both listening enjoyment and focused practice.

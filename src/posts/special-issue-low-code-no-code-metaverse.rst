@@ -1,7 +1,8 @@
+:orphan:
 :blogpost: true
 :date: February 23, 2025
-:category: Blog Post
-:tags: Artificial Intelligence, 02-23-2025
+:category: Blog Post, Artificial Intelligence, Software Engineering
+:tags: Low-Code/No-Code, Metaverse, Generative AI, IEEE Computer
 :nocomments:
 
 Special Issue on Low-Code/No-Code + Metaverse in IEEE Computer
@@ -45,4 +46,3 @@ George F. Hurlburt, George K. Thiruvathukal, Nir Kshetri, and Norita Ahmad, *Low
      keywords={},
      doi={10.1109/MC.2024.3520883}
    }
-   
