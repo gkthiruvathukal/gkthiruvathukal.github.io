@@ -53,7 +53,9 @@ This work is a practical example of how hardware-aware design can yield meaningf
 Citation
 ~~~~~~~~
 
-Eliopoulos, N. J., Jajal, P., Davis, J. C., Liu, G., Thiruvathukal, G. K., & Lu, Y.-H. (2025). Pruning one more token is enough: Leveraging latency-workload non-linearities for vision transformers on the edge. *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
+Link: https://ieeexplore.ieee.org/abstract/document/10943711/
+
+Eliopoulos, Nicholas J., Purvish Jajal, James C. Davis, Guoqing Liu, George K. Thiruvathukal, and Yung-Hsiang Lu. *Pruning One More Token Is Enough: Leveraging Latency-Workload Non-Linearities for Vision Transformers on the Edge*. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.
 
 .. code-block:: bibtex
 

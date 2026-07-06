@@ -100,7 +100,9 @@ Putting It All Together
 Citation
 --------
 
-George K. Thiruvathukal. *Extracting High-Quality Audio from YouTube for Music Practice*. Personal blog post, 2025. https://gkt.sh/posts/yt-dlp-jazz.html
+Link: https://gkt.sh/posts/yt-dlp-jazz.html
+
+Thiruvathukal, George K. *Extracting High-Quality Audio from YouTube for Music Practice*. Personal blog post, 2025.
 
 .. code-block:: bibtex
 

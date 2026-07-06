@@ -53,7 +53,9 @@ This work also highlights that better systems documentation — not just more ca
 Citation
 ~~~~~~~~
 
-Peng, H., Gupte, A., Hasler, R., Eliopoulos, N. J., Ho, C. C., Mantri, R., Deng, L., Thiruvathukal, G. K., Davis, J. C., & Lu, Y.-H. (2025). SysLLMatic: Large language models are software system optimizers. *arXiv:2506.01249*. https://arxiv.org/abs/2506.01249
+arXiv: https://arxiv.org/abs/2506.01249
+
+Peng, Huiyun, Akhil Gupte, Ryan Hasler, Nicholas J. Eliopoulos, Chi-Chang Ho, Rohan Mantri, Leyong Deng, George K. Thiruvathukal, James C. Davis, and Yung-Hsiang Lu. *SysLLMatic: Large Language Models Are Software System Optimizers*. arXiv:2506.01249, 2025.
 
 .. code-block:: bibtex
 

@@ -51,6 +51,54 @@ Post Title
 - Badge directives (`:bdg-primary:`) come from `sphinx_design`.
 - Footnote-style citations (`.. [1]`) are used for inline references; BibTeX citations use `sphinxcontrib.bibtex` syntax for academic references.
 
+## Citation Format
+
+When a post covers a paper or other citable work, its `Citation` section must contain exactly three parts, in this order:
+
+1. **Persistent link first**, on its own line, labeled by what it actually is:
+   - `DOI: https://doi.org/...` — when a real DOI exists (including Figshare DOIs).
+   - `arXiv: https://arxiv.org/abs/...` — for arXiv preprints with no DOI.
+   - `Link: https://...` — fallback for anything else (e.g., an IEEE Xplore page with no DOI, or a self-published post's own URL).
+2. **MLA plaintext citation**, one paragraph, blank line before and after the link line:
+   - Author list: first author as `Last, First`, all subsequent authors as `First Last`, joined with commas and `and` before the last (Oxford comma). Spell out **every** author — never abbreviate to `et al.`, regardless of author count.
+   - Title italicized with `*...*`, given verbatim from the paper (title-cased per MLA convention even if the publisher's own metadata uses sentence case).
+   - Venue in plain text (not italicized), followed by `vol.`/`no.` if applicable, then year, then `pp. X–Y` if applicable. End with a period.
+   - Do **not** repeat the DOI/URL here — it's already on the line above.
+3. **BibTeX** as a `.. code-block:: bibtex` block, last.
+
+Do not add a fourth element (no duplicate DOI/publisher tag at the end of the MLA sentence, no extra "Springer Link" style annotations).
+
+## Adding a New Blog-Post Category to the Sidebar Nav
+
+The sidebar's "Blog Posts" section (in `src/index.rst`) is a hidden toctree, and it only lists what's explicitly put in it — it does **not** automatically pick up new `:category:` values used in posts. ABlog's own auto-generated category archive pages (`build/blog/category/<slug>.html`) are synthesized after the normal build and are not real toctree-able documents, so they can't be linked directly from a toctree. Instead, each category gets a small stub page that filters to it, the same pattern `posts/index.rst` uses for "All Blog Posts".
+
+When a new topic category is introduced (beyond `Artificial Intelligence`, `Software Engineering`, `High-Performance Computing`, `Security`, `Music`), do this:
+
+1. Create `src/posts/category-<slug>.rst` (slug = lowercase, hyphenated category name), containing just a title and a full postlist filtered to it:
+
+   ```rst
+   ###########
+    Category Name
+   ###########
+
+   .. postlist::
+      :category: Blog Post, Category Name
+      :date: %A, %B %d, %Y
+      :format: {title}
+      :excerpts:
+      :expand: Read more ...
+   ```
+
+2. Add it to the `Blog Posts` toctree in `src/index.rst`:
+
+   ```rst
+   Category Name <posts/category-slug>
+   ```
+
+3. Add a matching section to `src/posts/index.rst` (the "All Blog Posts" topic directory) using the same `:category:` postlist filter, so the category shows up there too.
+4. Do **not** mark the new stub `:orphan:` — unlike individual posts, it must stay in the toctree so it's reachable from the sidebar.
+5. Rebuild and spot-check: the sidebar should show the new entry under "Blog Posts", and clicking it should list only posts carrying that category.
+
 ## Key Extensions
 
 | Extension | Purpose |

@@ -55,7 +55,9 @@ This work supports the case for stronger artifact standards at ML venues and pro
 Citation
 ~~~~~~~~
 
-Ravi, N., Goel, A., Davis, J. C., & Thiruvathukal, G. K. (2025). Improving the reproducibility of deep learning software: An initial investigation through a case study analysis. *arXiv:2505.03165*. https://arxiv.org/abs/2505.03165
+arXiv: https://arxiv.org/abs/2505.03165
+
+Ravi, Nadia, Aditya Goel, James C. Davis, and George K. Thiruvathukal. *Improving the Reproducibility of Deep Learning Software: An Initial Investigation Through a Case Study Analysis*. arXiv:2505.03165, 2025.
 
 .. code-block:: bibtex
 

@@ -50,7 +50,9 @@ This paper provides an empirical basis for those recommendations.
 Citation
 ~~~~~~~~
 
-Jiang, W., Banna, V., Vivek, N., Goel, A., Synovic, N., Thiruvathukal, G. K., & Davis, J. C. (2024). Challenges and practices of deep learning model reengineering: A case study on computer vision. *Empirical Software Engineering*. https://doi.org/10.1007/s10664-023-10415-3
+DOI: https://doi.org/10.1007/s10664-023-10415-3
+
+Jiang, Wenxin, Vishnu Banna, Nikhil Vivek, Aditya Goel, Nicholas Synovic, George K. Thiruvathukal, and James C. Davis. *Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision*. Empirical Software Engineering, 2024.
 
 .. code-block:: bibtex
 

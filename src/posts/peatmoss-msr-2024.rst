@@ -52,7 +52,9 @@ The dataset is open and intended to support follow-on work on licensing, securit
 Citation
 ~~~~~~~~
 
-Jiang, W., Yasmin, J., Jones, J., Synovic, N., Kuo, J., Bielanski, N., Tian, Y., Thiruvathukal, G. K., & Davis, J. C. (2024). PeaTMOSS: A dataset and initial analysis of pre-trained models in open-source software. *Proceedings of the 21st International Conference on Mining Software Repositories (MSR)*. https://doi.org/10.1145/3643991.3644886
+DOI: https://doi.org/10.1145/3643991.3644886
+
+Jiang, Wenxin, Jerin Yasmin, Jason Jones, Nicholas Synovic, Julian Kuo, Nathan Bielanski, Yuan Tian, George K. Thiruvathukal, and James C. Davis. *PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software*. Proceedings of the 21st International Conference on Mining Software Repositories (MSR), 2024.
 
 .. code-block:: bibtex
 

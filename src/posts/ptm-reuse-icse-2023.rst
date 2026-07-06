@@ -56,7 +56,9 @@ This paper establishes an empirical baseline for what reuse actually looks like 
 Citation
 ~~~~~~~~
 
-Jiang, W., Synovic, N., Hyatt, M., Schorlemmer, T. R., Sethi, R., Lu, Y.-H., Thiruvathukal, G. K., & Davis, J. C. (2023). An empirical study of pre-trained model reuse in the Hugging Face deep learning model registry. *Proceedings of the 45th International Conference on Software Engineering (ICSE)*, pp. 2463–2475. https://doi.org/10.1109/ICSE48619.2023.00074
+DOI: https://doi.org/10.1109/ICSE48619.2023.00074
+
+Jiang, Wenxin, Nicholas Synovic, Matt Hyatt, Thomas R. Schorlemmer, Rohan Sethi, Yung-Hsiang Lu, George K. Thiruvathukal, and James C. Davis. *An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry*. Proceedings of the 45th International Conference on Software Engineering (ICSE), 2023, pp. 2463–2475.
 
 .. code-block:: bibtex
 

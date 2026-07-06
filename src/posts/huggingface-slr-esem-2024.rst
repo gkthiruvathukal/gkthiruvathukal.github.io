@@ -51,7 +51,9 @@ This review gives researchers a baseline to build from and highlights the areas 
 Citation
 ~~~~~~~~
 
-Jones, J., Jiang, W., Synovic, N., Thiruvathukal, G. K., & Davis, J. C. (2024). What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims. *Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*. https://doi.org/10.1145/3674805.3686678
+DOI: https://doi.org/10.1145/3674805.3686678
+
+Jones, Jason, Wenxin Jiang, Nicholas Synovic, George K. Thiruvathukal, and James C. Davis. *What Do We Know About Hugging Face? A Systematic Literature Review and Quantitative Validation of Qualitative Claims*. Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2024.
 
 .. code-block:: bibtex
 

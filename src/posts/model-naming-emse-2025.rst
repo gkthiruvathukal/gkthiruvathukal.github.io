@@ -66,7 +66,9 @@ the DARA tool yourself, the paper and the code are available at
 Citation
 ~~~~~~~~
 
-Jiang, Wenxin, Mingyu Kim, Chingwo Cheung, Heesoo Kim, George K. Thiruvathukal, and James C. Davis. *"I See Models Being a Whole Other Thing": An Empirical Study of Pre-trained Model Naming Conventions and a Tool for Enhancing Naming Consistency*. Empirical Software Engineering, vol. 30, no. 6, 2025, p. 155. Springer Link, https://doi.org/10.1007/s10664-025-10711-4.
+DOI: https://doi.org/10.1007/s10664-025-10711-4
+
+Jiang, Wenxin, Mingyu Kim, Chingwo Cheung, Heesoo Kim, George K. Thiruvathukal, and James C. Davis. *"I See Models Being a Whole Other Thing": An Empirical Study of Pre-trained Model Naming Conventions and a Tool for Enhancing Naming Consistency*. Empirical Software Engineering, vol. 30, no. 6, 2025, p. 155.
 
 .. code-block:: bibtex
 

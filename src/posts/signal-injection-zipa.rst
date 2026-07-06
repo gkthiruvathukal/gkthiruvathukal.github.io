@@ -76,7 +76,9 @@ Designers of large-scale IoT auto-provisioning systems should adopt more robust 
 Citation
 --------
 
-Isaac Ahlgren, Jack West, Kyuin Lee, George K. Thiruvathukal, and Neil Klingensmith. *A Signal Injection Attack Against Zero Involvement Pairing and Authentication for the Internet of Things*. 2024 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2024, pp. 9–15. https://doi.org/10.1109/DESTION62938.2024.00008
+DOI: https://doi.org/10.1109/DESTION62938.2024.00008
+
+Ahlgren, Isaac, Jack West, Kyuin Lee, George K. Thiruvathukal, and Neil Klingensmith. *A Signal Injection Attack Against Zero Involvement Pairing and Authentication for the Internet of Things*. 2024 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2024, pp. 9–15.
 
 .. code-block:: bibtex
 

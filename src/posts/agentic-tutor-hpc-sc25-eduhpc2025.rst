@@ -98,7 +98,9 @@ Access
 Citation
 ----------------------
 
-Erik Pautsch, Mengjiao Han, Joseph A. Insley, Janet Knowles, Victor A. Mateevitsi, Silvio Rizzi, and George K. Thiruvathukal. 2025. *An Interactive Agentic HPC Tutor for Lesson Planning, Teaching, and Assessment*. In Proceedings of the SC '25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops '25). Association for Computing Machinery, New York, NY, USA, 367–375. https://doi.org/10.1145/3731599.3767386
+DOI: https://doi.org/10.1145/3731599.3767386
+
+Pautsch, Erik, Mengjiao Han, Joseph A. Insley, Janet Knowles, Victor A. Mateevitsi, Silvio Rizzi, and George K. Thiruvathukal. *An Interactive Agentic HPC Tutor for Lesson Planning, Teaching, and Assessment*. Proceedings of the SC '25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops '25), 2025, pp. 367–375.
 
 .. code-block:: bibtex
 

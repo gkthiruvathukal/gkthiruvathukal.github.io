@@ -65,3 +65,8 @@ For more information about me and my work/interests, see :doc:`pages/about`.
    :caption: Blog Posts
 
    All Blog Posts <posts/index>
+   Artificial Intelligence <posts/category-artificial-intelligence>
+   Software Engineering <posts/category-software-engineering>
+   High-Performance Computing <posts/category-high-performance-computing>
+   Security <posts/category-security>
+   Music <posts/category-music>

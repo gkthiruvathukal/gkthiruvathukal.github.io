@@ -40,7 +40,9 @@ These tracks offer a rich foundation for developing vocabulary, time feel, and t
 Citation
 --------
 
-George K. Thiruvathukal. *Jazz Piano Playlist for Inspiration and Practice*. Personal blog post, 2024. https://gkt.sh/posts/jazz-piano-playlist.html
+Link: https://gkt.sh/posts/jazz-piano-playlist.html
+
+Thiruvathukal, George K. *Jazz Piano Playlist for Inspiration and Practice*. Personal blog post, 2024.
 
 .. code-block:: bibtex
 

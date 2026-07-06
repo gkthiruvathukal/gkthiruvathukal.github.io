@@ -54,7 +54,9 @@ This work is an early step toward benchmarks and training signals that incorpora
 Citation
 ~~~~~~~~
 
-Peng, H., Gupte, A., Eliopoulos, N. J., Ho, C. C., Mantri, R., Deng, L., Jiang, W., Thiruvathukal, G. K., Davis, J. C., & Lu, Y.-H. (2024). Large language models for energy-efficient code: Emerging results and future directions. *arXiv:2410.09241*. https://arxiv.org/abs/2410.09241
+arXiv: https://arxiv.org/abs/2410.09241
+
+Peng, Huiyun, Akhil Gupte, Nicholas J. Eliopoulos, Chi-Chang Ho, Rohan Mantri, Leyong Deng, Wenxin Jiang, George K. Thiruvathukal, James C. Davis, and Yung-Hsiang Lu. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*. arXiv:2410.09241, 2024.
 
 .. code-block:: bibtex
 

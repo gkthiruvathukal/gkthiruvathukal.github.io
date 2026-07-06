@@ -53,7 +53,9 @@ This has direct implications for high-stakes deployments: interpretability tools
 Citation
 ~~~~~~~~
 
-Abdukhamidov, E., Abuhamad, M., Thiruvathukal, G. K., Kim, H., & Abuhmed, T. (2024). SingleAdv: Single-class target-specific attack against interpretable deep learning systems. *IEEE Transactions on Information Forensics and Security*. https://doi.org/10.1109/TIFS.2024.3355942
+DOI: https://doi.org/10.1109/TIFS.2024.3355942
+
+Abdukhamidov, Elmurod, Mohammed Abuhamad, George K. Thiruvathukal, Hyoungshick Kim, and Tamer Abuhmed. *SingleAdv: Single-Class Target-Specific Attack Against Interpretable Deep Learning Systems*. IEEE Transactions on Information Forensics and Security, 2024.
 
 .. code-block:: bibtex
 

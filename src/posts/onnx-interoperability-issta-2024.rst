@@ -54,7 +54,9 @@ For the research and tooling community, this paper identifies the specific failu
 Citation
 ~~~~~~~~
 
-Jajal, P., Jiang, W., Tewari, A., Kocinare, E., Woo, J., Sarraf, A., Lu, Y.-H., Thiruvathukal, G. K., & Davis, J. C. (2024). Interoperability in deep learning: A user survey and failure analysis of ONNX model converters. *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*. https://doi.org/10.1145/3650212.3652133
+DOI: https://doi.org/10.1145/3650212.3652133
+
+Jajal, Purvish, Wenxin Jiang, Arav Tewari, Ece Kocinare, Joseph Woo, Anirudh Sarraf, Yung-Hsiang Lu, George K. Thiruvathukal, and James C. Davis. *Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters*. Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024.
 
 .. code-block:: bibtex
 
