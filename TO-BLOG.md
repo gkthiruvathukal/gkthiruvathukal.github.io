@@ -15,12 +15,12 @@ Ranked by Google Scholar citation count (profile total: 2,592 citations,
 h-index 26). These are the highest-leverage gaps — each already has an
 audience via citations but no blog post.
 
-- [ ] **"A Survey of Methods for Low-Power Deep Learning and Computer Vision"** (2020) — 160 citations. Directly ties to the *Low-Power Computer Vision* book (Priority 3) — could be one combined post.
-- [ ] **"Codename Revolution: The Nintendo Wii Platform"** (2012) — 156 citations. Highest-citation item with zero blog coverage; also has a fun/personal angle distinct from the ML-heavy posts.
+- [x] **"A Survey of Methods for Low-Power Deep Learning and Computer Vision"** (2020) — 160 citations. Published as part of the combined `low-power-computer-vision-2022.rst` post alongside the CRC book.
+- [x] **"Codename Revolution: The Nintendo Wii Platform"** (2012) — 156 citations. Published as `codename-revolution-nintendo-wii-platform.rst`.
 - [ ] **"Wide-Area Implementation of the Message Passing Interface"** (1998) — 143 citations. Older HPC paper; historical-interest angle given your current HPC/Argonne work.
-- [ ] **"Low-Power Computer Vision: Status, Challenges, and Opportunities"** (2019) — 128 citations. Companion/precursor to the 2020 survey above and the book.
+- [x] **"Low-Power Computer Vision: Status, Challenges, and Opportunities"** (2019) — 128 citations. Mentioned in prose (not a full citation block, ~30 authors) within `low-power-computer-vision-2022.rst`.
 - [ ] **"Comparison of Visual Datasets for Machine Learning"** (2017) — 84 citations.
-- [ ] **"An Empirical Study of Artifacts and Security Risks in the Pre-Trained Model Supply Chain"** (2022) — 73 citations. Fits the `Security` + `Artificial Intelligence` categories already on the site, alongside PeaTMOSS/PTM-reuse.
+- [x] **"An Empirical Study of Artifacts and Security Risks in the Pre-Trained Model Supply Chain"** (2022) — 73 citations. Published as `ptm-supply-chain-security-scored-2022.rst`.
 - [ ] **"Reflective Remote Method Invocation"** (1998) — 52 citations.
 - [ ] **"Software Engineering for Science"** (2016) — 46 citations.
 - [ ] **"Reusing Deep Learning Models: Challenges and Directions in Software Engineering"** (2023) — 45 citations. Related to, but distinct from, the EMSE model-reengineering post already on the site.
@@ -34,7 +34,7 @@ audience via citations but no blog post.
 
 ## Priority 2 — Mainstream / Loyola Media Coverage
 
-- [ ] **"How Loyola Is Bringing Artificial Intelligence and Ethics into the Classroom"** ([news.luc.edu](https://news.luc.edu/stories/campus-life/how-loyola-is-bringing-artificial-intelligence-and-ethics-into-the-classroom/)) — direct, quotable material from you: AI as transformative as "the printing press or the internet," advocacy for oral exams/PhD-defense-style assessment over written exams, and the philosophical/theological dimension of AI in education. Strongest adaptable-text candidate in this tier.
+- [x] **"How Loyola Is Bringing Artificial Intelligence and Ethics into the Classroom"** ([news.luc.edu](https://news.luc.edu/stories/campus-life/how-loyola-is-bringing-artificial-intelligence-and-ethics-into-the-classroom/)) — published as `loyola-ai-ethics-classroom.rst`.
 - [ ] **"Loyola Expands AI Education with New Minors, Labs and Ethical Focus"** ([Loyola Phoenix](https://loyolaphoenix.com/2026/02/loyola-expands-ai-education-with-new-minors-labs-and-ethical-focus/)) — covers your role pushing the new AI minors, including the fall 2026 "AI and Human Flourishing" joint minor with Philosophy.
 - [ ] **CAS Faculty Spotlight** ([luc.edu/cas](https://www.luc.edu/cas/about/newsevents/facultyspotlights/georgekthiruvathukal/)) — covers *Intermediate C Programming* 2nd ed. and your cybersecurity-program role. Overlaps with the CS newsroom spotlight below; likely worth merging into one post rather than two.
 - [ ] **CS Department Newsroom Spotlight** ([newsroom.cs.luc.edu](https://newsroom.cs.luc.edu/george-k-thiruvathukal-phd-department-chairperson/)) — chairperson/teaching-focused profile.
@@ -42,8 +42,8 @@ audience via citations but no blog post.
 
 ## Priority 3 — Other (Books, Tools, Recent Preprints, Updates)
 
-- [ ] **"Intermediate C Programming," 2nd ed.** (Lu & Thiruvathukal, Routledge/T&F, 2024) — full book, zero blog coverage. Ties to the `systems-code-examples` GitHub repo (32 stars) and your Software Systems Lab course.
-- [ ] **"Low-Power Computer Vision: Improve the Efficiency of AI"** (edited volume, Thiruvathukal et al., Chapman & Hall/CRC, 2024) — full book, zero blog coverage. Ties to the two high-citation low-power CV papers in Priority 1.
+- [x] **"Intermediate C Programming," 2nd ed.** (Lu & Thiruvathukal, Routledge/T&F, 2024) — published as `intermediate-c-programming-2nd-edition.rst`.
+- [x] **"Low-Power Computer Vision: Improve the Efficiency of AI"** (edited volume, Thiruvathukal et al., Chapman & Hall/CRC, 2022) — published as part of `low-power-computer-vision-2022.rst`.
 - [ ] **"Now's the Time: Computer Science Must Evolve to Emphasize Software and Systems Engineering with AI"** (arXiv, w/ C.N. Sekharan, 2026) — opinion/vision piece.
 - [ ] **"Can LLMs Write Correct TLA+ Specifications?"** (arXiv 2606.05792, 2026) — follow-up to the existing `tla-for-all` post.
 - [ ] **"TLA-Prover: Verifiable TLA+ Specification Synthesis via Preference-Optimized LoRA"** (arXiv 2606.06133, 2026) — pairs with the above; consider one combined post.
@@ -55,4 +55,4 @@ audience via citations but no blog post.
 - [ ] **SysLLMatic — venue update** — existing post cites the arXiv preprint; Scholar shows it's now published in *Journal of Systems and Software*. Update citation/DOI/venue tag rather than a new post.
 
 ---
-*Generated 2026-07-05. Re-run the same source sweep periodically (GitHub, Scholar sorted by date, Loyola Phoenix, CAS/CS newsroom, publisher searches, Lab for Applied AI) to keep this current.*
+*Generated 2026-07-05, last updated 2026-07-09 (5 items published: PTM Supply Chain Security, Intermediate C Programming, Low-Power Computer Vision + 2020/2019 surveys, Codename Revolution, Loyola AI & Ethics feature). Re-run the same source sweep periodically (GitHub, Scholar sorted by date, Loyola Phoenix, CAS/CS newsroom, publisher searches, Lab for Applied AI) to keep this current.*
