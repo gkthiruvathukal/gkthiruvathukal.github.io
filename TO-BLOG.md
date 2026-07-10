@@ -47,12 +47,11 @@ audience via citations but no blog post.
 - [ ] **"Now's the Time: Computer Science Must Evolve to Emphasize Software and Systems Engineering with AI"** (arXiv, w/ C.N. Sekharan, 2026) — opinion/vision piece.
 - [ ] **"Can LLMs Write Correct TLA+ Specifications?"** (arXiv 2606.05792, 2026) — follow-up to the existing `tla-for-all` post.
 - [ ] **"TLA-Prover: Verifiable TLA+ Specification Synthesis via Preference-Optimized LoRA"** (arXiv 2606.06133, 2026) — pairs with the above; consider one combined post.
-- [ ] **"Attribution Energy as a Companion Interpretability Metric for Grad-CAM in CBCT Image-Quality Assessment"** (AAPM|COMP 2026) — new topic area (medical imaging).
 - [ ] **"Three-Dimensional Shape Cues Affect Human and Artificial Recognition Systems Differently"** (PLoS One, 2026) — cognitive science x computer vision.
-- [ ] **`jazz-patterns`** (GitHub) — companion tool to the existing jazz posts.
+- [x] **`jazz-patterns`** (GitHub) — published as `jazz-scales-practice-web-app.rst`, covering the interactive web app (jazz-scales.gkt.sh).
 - [ ] **`compositions-abjad`** (GitHub) — Music 246 coursework tool.
 - [ ] **`operatingsystems`** (GitHub) — OS teaching resource.
 - [ ] **SysLLMatic — venue update** — existing post cites the arXiv preprint; Scholar shows it's now published in *Journal of Systems and Software*. Update citation/DOI/venue tag rather than a new post.
 
 ---
-*Generated 2026-07-05, last updated 2026-07-09 (5 items published: PTM Supply Chain Security, Intermediate C Programming, Low-Power Computer Vision + 2020/2019 surveys, Codename Revolution, Loyola AI & Ethics feature). Re-run the same source sweep periodically (GitHub, Scholar sorted by date, Loyola Phoenix, CAS/CS newsroom, publisher searches, Lab for Applied AI) to keep this current.*
+*Generated 2026-07-05, last updated 2026-07-10 (6 items published: PTM Supply Chain Security, Intermediate C Programming, Low-Power Computer Vision + 2020/2019 surveys, Codename Revolution, Loyola AI & Ethics feature, jazz-patterns web app. The AAPM/COMP "Attribution Energy" item was dropped — provenance unclear). Re-run the same source sweep periodically (GitHub, Scholar sorted by date, Loyola Phoenix, CAS/CS newsroom, publisher searches, Lab for Applied AI) to keep this current.*
