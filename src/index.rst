@@ -70,3 +70,6 @@ For more information about me and my work/interests, see :doc:`pages/about`.
    High-Performance Computing <posts/category-high-performance-computing>
    Security <posts/category-security>
    Music <posts/category-music>
+   Books <posts/category-books>
+   Higher Education <posts/category-higher-education>
+   Computing Culture <posts/category-computing-culture>

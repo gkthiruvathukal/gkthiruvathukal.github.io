@@ -59,3 +59,36 @@ Music
    :format: {title}
    :excerpts:
    :expand: Read more ...
+
+*******
+Books
+*******
+
+.. postlist::
+   :category: Blog Post, Books
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...
+
+******************
+Higher Education
+******************
+
+.. postlist::
+   :category: Blog Post, Higher Education
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...
+
+*******************
+Computing Culture
+*******************
+
+.. postlist::
+   :category: Blog Post, Computing Culture
+   :date: %A, %B %d, %Y
+   :format: {title}
+   :excerpts:
+   :expand: Read more ...

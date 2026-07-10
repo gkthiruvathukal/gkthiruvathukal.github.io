@@ -72,7 +72,7 @@ Do not add a fourth element (no duplicate DOI/publisher tag at the end of the ML
 
 The sidebar's "Blog Posts" section (in `src/index.rst`) is a hidden toctree, and it only lists what's explicitly put in it — it does **not** automatically pick up new `:category:` values used in posts. ABlog's own auto-generated category archive pages (`build/blog/category/<slug>.html`) are synthesized after the normal build and are not real toctree-able documents, so they can't be linked directly from a toctree. Instead, each category gets a small stub page that filters to it, the same pattern `posts/index.rst` uses for "All Blog Posts".
 
-When a new topic category is introduced (beyond `Artificial Intelligence`, `Software Engineering`, `High-Performance Computing`, `Security`, `Music`), do this:
+When a new topic category is introduced (beyond `Artificial Intelligence`, `Software Engineering`, `High-Performance Computing`, `Security`, `Music`, `Books`, `Higher Education`, `Computing Culture`), do this:
 
 1. Create `src/posts/category-<slug>.rst` (slug = lowercase, hyphenated category name), containing just a title and a full postlist filtered to it:
 
