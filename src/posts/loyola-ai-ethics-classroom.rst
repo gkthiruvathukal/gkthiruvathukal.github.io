@@ -16,15 +16,15 @@ AI as a Generational Shift
 
 In the piece, I compared AI's emergence to "the printing press or the internet."
 I don't say that lightly — most technologies that get compared to the printing press don't deserve it.
-But the printing press didn't just make books cheaper; it restructured who got to participate in producing and circulating knowledge at all.
-I think AI is doing something structurally similar to how people produce, verify, and learn from information, and universities that treat it as just a faster autocomplete are going to miss that.
+But the printing press didn't just make books cheaper; it changed who got to make and share knowledge in the first place.
+I think AI is doing something similarly big to how people create, check, and learn from information, and universities that treat it as just a faster autocomplete are going to miss that.
 
 Why Assessment Has to Change
 ------------------------------
 
 I also argued that we should lean more on oral assessment — using the PhD defense as the model.
 A defense works precisely because a student can't outsource it: you have to know your own work well enough to defend it in real time, under questions you didn't get to prepare for.
-Written exams and take-home assignments were never a perfect proxy for understanding, but AI has made the gap between "produced a good written artifact" and "actually understands the material" much wider and much easier to hide.
+Written exams and take-home assignments were never a perfect proxy for understanding, but AI has made the gap between "wrote something that looks good" and "actually understands the material" much wider and much easier to hide.
 Oral assessment doesn't scale as easily as a written exam, but it scales a lot better than pretending the problem isn't there.
 
 The Philosophical and Theological Questions Are Not Optional

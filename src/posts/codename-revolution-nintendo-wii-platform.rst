@@ -15,7 +15,7 @@ What the Book Is About
 
 The Nintendo Wii — codenamed "Revolution" during development — brought back a simpler, more social style of play when it launched in 2006.
 Rather than chasing fully immersive, forty-hour games, the Wii pulled players back toward family fun in the living room, using a wireless, motion-sensitive controller (the "Wiimote") that shifted play from what's on the screen to what players' bodies are doing in physical space.
-This book treats the Wii not just as a piece of hardware but as a *platform*: an interrelated system of hardware and software consciously designed to promote social play in shared physical space.
+This book treats the Wii not just as a piece of hardware but as a *platform*: hardware and software designed together to get people playing in the same room.
 
 What's Inside
 -------------

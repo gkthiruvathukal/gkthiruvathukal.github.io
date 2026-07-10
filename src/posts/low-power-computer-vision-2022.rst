@@ -38,7 +38,7 @@ The Research Behind It
 
 Before the book, the 2020 WF-IoT survey (*"A Survey of Methods for Low-Power Deep Learning and Computer Vision"*) set out the landscape the book's later chapters build on.
 Deep neural networks need millions of parameters and operations to run, which makes them energy-, computation-, and memory-intensive — a poor fit for resource-constrained devices.
-The survey organizes the ways researchers address this into four families of technique: parameter quantization and pruning, compressed filters and matrix factorization, network architecture search, and knowledge distillation.
+The survey organizes the ways researchers address this into four categories of methods: parameter quantization and pruning, compressed filters and matrix factorization, network architecture search, and knowledge distillation.
 It weighs the accuracy trade-offs of each and proposes evaluation metrics meant to guide future work on making deep networks practical for low-power IoT and edge deployment.
 
 That survey, in turn, grew out of an even larger community effort: the 2019 report *"Low-Power Computer Vision: Status, Challenges, and Opportunities,"* co-authored with the broader Low-Power Computer Vision Challenge community (dozens of contributors across the field), which took stock of where the challenge and the field stood at the time.

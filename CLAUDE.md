@@ -53,12 +53,13 @@ Post Title
 
 ## Citation Format
 
-When a post covers a paper or other citable work, its `Citation` section must contain exactly three parts, in this order:
+Only add a `Citation` section when the post covers a paper, book, or other work with a **real persistent identifier** (a DOI, including Figshare DOIs, or an arXiv ID). If there isn't one — a GitHub project, a web app, a news feature, an informal write-up — don't manufacture a citation section just to have one; link to it normally in prose instead. (An IEEE Xplore page or similar with no DOI doesn't count as a real identifier either — skip the Citation section for those too, or link in prose.)
+
+When a Citation section is warranted, it must contain exactly three parts, in this order:
 
 1. **Persistent link first**, on its own line, labeled by what it actually is:
    - `DOI: https://doi.org/...` — when a real DOI exists (including Figshare DOIs).
    - `arXiv: https://arxiv.org/abs/...` — for arXiv preprints with no DOI.
-   - `Link: https://...` — fallback for anything else (e.g., an IEEE Xplore page with no DOI, or a self-published post's own URL).
 2. **MLA plaintext citation**, one paragraph, blank line before and after the link line:
    - Author list: first author as `Last, First`, all subsequent authors as `First Last`, joined with commas and `and` before the last (Oxford comma). Spell out **every** author — never abbreviate to `et al.`, regardless of author count.
    - Title italicized with `*...*`, given verbatim from the paper (title-cased per MLA convention even if the publisher's own metadata uses sentence case).

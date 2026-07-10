@@ -16,13 +16,13 @@ Abstract / Summary
 ------------------
 
 Pre-trained models (PTMs) are now downloaded and reused the way traditional software depends on packages from registries like npm or PyPI — but unlike those registries, the PTM supply chain has had almost no systematic security study.
-This paper maps the structure of that supply chain across eight model hubs, catalogs the security features (or lack thereof) each one offers, and shows where existing supply-chain defenses fail to carry over from traditional software.
+This paper maps the structure of that supply chain across eight model hubs, catalogs what security features each one offers (if any), and shows where existing supply-chain defenses fail to carry over from traditional software.
 
 Background
 ----------
 
 Model hubs such as Hugging Face now rival traditional package registries in scale and popularity, yet PTMs face threats that traditional packages don't: direct attacks such as backdoors, trojans, and injected malware, as well as indirect attacks through data poisoning, on top of the ordinary software supply chain risks that already apply to any downloaded artifact.
-Despite this, there had been no structural account of how PTM supply chains are organized or how well existing hubs guard against these risks.
+Despite this, there had been no clear picture of how PTM supply chains are organized or how well existing hubs guard against these risks.
 
 Key Contributions
 -----------------
