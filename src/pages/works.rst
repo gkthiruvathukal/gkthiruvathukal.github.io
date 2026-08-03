@@ -1,19 +1,13 @@
 Research, Scholarship, Artifacts
 ===========================================
 
-Latest CV in PDF at GitHub
---------------------------
+CV (Leaves Site)
+-----------------
 
-- `CV in PDF <https://github.com/gkthiruvathukal/cv/releases/latest/download/gkthiruvathukal.pdf>`_
-- `CV Source Code <https://github.com/gkthiruvathukal/cv>`_
+- `CV Web <https://cv.gkt.sh/cv/>`_
+- `CV PDF <https://cv.gkt.sh/cv-thiruvathukal.pdf>`_
 
-Indexing
---------------
-
-- `Google Scholar <https://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en>`_
-
-
-Digital Libraries
+Institutional Repository
 ---------------------------------------------
 
 - `Loyola University Chicago Scholar Page <https://scholars.luc.edu/en/persons/george-kuriakose-thiruvathukal>`_
