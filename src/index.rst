@@ -28,12 +28,12 @@ For more information about me and my work/interests, see :doc:`pages/about`.
       :margin: 3 0 0 0
       :text-align: center
 
-      .. button-link:: https://cv.gkt.sh/cv-thiruvathukal.pdf
+      .. button-link:: https://cv.gkt.sh/cv/
          :click-parent:
          :color: primary
          :expand:
 
-         Download CV in PDF
+         View or Download CV
 
 
 *******************
