@@ -4,6 +4,8 @@ Research, Scholarship, Artifacts
 CV (Leaves Site)
 -----------------
 
+A web-first CV, with a PDF version available for when a printable copy is truly needed.
+
 - `CV Web <https://cv.gkt.sh/cv/>`_
 - `CV PDF <https://cv.gkt.sh/cv-thiruvathukal.pdf>`_
 
