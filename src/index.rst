@@ -56,7 +56,6 @@ For more information about me and my work/interests, see :doc:`pages/about`.
    :maxdepth: 2
    :caption: Pages
 
-   Pages <pages/index>
    pages/*
 
 .. toctree::
