@@ -48,6 +48,19 @@ For the *Journal of Open Source Software* (Data Science and Artificial Intellige
 Beyond department chair and professor duties, I returned to school in January 2023 to study jazz piano with `Lara Driscoll <https://laradriscoll.com/>`__—my first real *piano* teacher—and have learned from other *brilliant* mentors, including `Jack Cassidy <https://www.jackcassidymusic.com/>`__, `Victor Garcia <https://victorgarciamusic.com/>`__, `Chris Madsen <https://www.luc.edu/dfpa/facultyandstaffdirectory/profiles/christophermadsendma.shtml>`__, and `Michael Nearpass <https://www.oldtownschool.org/teachers/Michael-Nearpass/>`__.
 A degree in music may not fit my chairperson life, but I’m profoundly grateful to this group for helping me grow as an improviser and composer. Wish me luck.
 
+Books
+-----
+
+- *The History of Computing and Its Cultures: From Calculation to Convergence* (Taylor and Francis/Routledge/CRC Press, estimated Fall 2026), with David B. Dennis
+- `Recursion: Mathematics and Python <https://www.routledge.com/Recursion-Mathematics-and-Python/Lu-Thiruvathukal/p/book/9781041149538>`__ (CRC Press, 2026), with Yung-Hsiang Lu
+- `Introduction to Statistics in Criminal Justice and Criminology <https://www.wiley.com/en-us/shop/general-introductory-law/introduction-to-statistics-in-criminal-justice-and-criminology-a-practical-approach-to-calculating-using-and-interpreting-data-p-9781118559307>`__ (Wiley, 2026), with Arthur J. Lurigio, Michael Perry, and Nathan M. Lutz
+- `Intermediate C Programming, 2nd Edition <https://www.routledge.com/Intermediate-C-Programming/Lu-Thiruvathukal/p/book/9781032189819>`__ (CRC Press, 2024), with Yung-Hsiang Lu
+- `Low-Power Computer Vision <https://www.routledge.com/Low-Power-Computer-Vision-Improve-the-Efficiency-of-Artificial-Intelligence/Thiruvathukal-Lu-Kim-Chen-Chen/p/book/9780367755287>`__ (Chapman and Hall/CRC Press, 2022), with Yung-Hsiang Lu, Jaeyoun Kim, Yiran Chen, and Bo Chen
+- `Software Engineering for Science <https://www.routledge.com/Software-Engineering-for-Science/Carver-ChueHong-Thiruvathukal/p/book/9780367574277>`__ (Taylor and Francis/CRC Press, 2017), with Jeffrey Carver and Neil P. Chue Hong
+- `Codename Revolution: The Nintendo Wii Platform <https://mitpress.mit.edu/9780262016803/codename-revolution/>`__ (MIT Press, 2012), with Steven E. Jones
+- `Web Programming: Techniques for Integrating Python, Linux, Apache, and MySQL <https://figshare.com/articles/book/Web_Programming_in_Python_Techniques_for_Integrating_Linux_Apache_and_MySQL/13547990?file=26000966>`__ (Prentice Hall, 2002), with John P. Shafaee and Thomas W. Christopher
+- `High Performance Java Computing: Multi-Threaded and Networked Programming <https://figshare.com/articles/dataset/hpjpc/962958/2?file=1421350>`__ (Prentice Hall PTR / Sun Microsystems Press Java Series, 2000), with Thomas W. Christopher
+
 Links
 -----
 
