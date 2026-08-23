@@ -112,7 +112,15 @@ html_theme_options = {
             "url": "https://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en",
             "icon": "fa-brands fa-google-scholar",
         },
+        {
+            "name": "Key Links",
+            "url": "https://keylinks.gkt.sh",
+            "icon": "fa-solid fa-link",
+        },
     ],
+    "extra_footer": (
+        '<p>More key links: <a href="https://keylinks.gkt.sh">keylinks.gkt.sh</a></p>'
+    ),
 }
 html_title = project
 html_logo = "_static/images/headshot.png"
